@@ -33,10 +33,13 @@ class PeopleCounter:
         for filename in os.listdir(directory):
             if filename.endswith(".jpg"):
                print(os.path.join(directory, filename))
-               predict.main(os.path.join(directory, filename))
+               predres = predict.main(os.path.join(directory, filename))
+               predjs = json.loads(predres)
+               peoplecount = len(predjs)
+               print("count of people : ",peoplecount) 
             else:
                continue        
-        #return peoplecount
+        return peoplecount
 
 
 if __name__ == '__main__':
