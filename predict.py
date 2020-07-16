@@ -47,7 +47,8 @@ def main(image_filename):
 
     image = Image.open(image_filename)
     predictions = od_model.predict_image(image)
-    print(predictions)
+    #print(predictions)
+    return predictions
 
 
 if __name__ == '__main__':
