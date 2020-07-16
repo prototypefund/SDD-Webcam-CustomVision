@@ -6,7 +6,7 @@
 #import os
 #os.environ["CUDA_VISIBLE_DEVICES"] = "-1"
 
-import predict.py as predict
+import predict
 import numpy as np
 import cv2
 import urllib
