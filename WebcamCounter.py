@@ -33,7 +33,7 @@ class PeopleCounter:
         for filename in os.listdir(directory):
             if filename.endswith(".jpg"):
                print(os.path.join(directory, filename))
-               predict.main(os.path.join(directory, filename)
+               predict.main(os.path.join(directory, filename))
             else:
                continue        
         #return peoplecount
