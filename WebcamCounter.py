@@ -24,21 +24,15 @@ class PeopleCounter:
         self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
         self.image = cv2.imdecode(self.image, -1)
-        status = cv2.imwrite("/tmp/"+ str(id) + ".jpg", self.image)
-        print("Image written to file-system : ",status)       
-
-    def count_people(self, verbose=False):
-        peoplecount = 0
+        filename = "/tmp/"+ str(id) + ".jpg"
+        status = cv2.imwrite(filename, self.image)
+        print("Image written to file-system : ",status)
         directory = r'/tmp'
-        for filename in os.listdir(directory):
-            if filename.endswith(".jpg"):
-               print(os.path.join(directory, filename))            
-               pred = predict.main(os.path.join(directory, filename))
-               peoplecount = len([x for x in pred if x["probability"]>0.5]) 
-               print(predict.main(os.path.join(directory, filename)))
-               print("count of people : ",peoplecount) 
-            else:
-               continue        
+        print(os.path.join(directory, filename))            
+        pred = predict.main(os.path.join(directory, filename))
+        peoplecount = len([x for x in pred if x["probability"]>0.5]) 
+        print(predict.main(os.path.join(directory, filename)))
+        print("count of people : ",peoplecount) 
         return peoplecount
 
 
