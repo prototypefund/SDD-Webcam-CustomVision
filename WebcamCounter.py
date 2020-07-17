@@ -43,9 +43,7 @@ if __name__ == '__main__':
     for cam in webcams:
         print(cam)
         try:
-            pc.get_image(cam['URL'], cam['ID'])
-            #pc.count_people(verbose=False)
-            cam['Personenzahl'] = pc.count_people(verbose=False)
+            cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
             cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
             print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
         except urllib.error.HTTPError as e:
