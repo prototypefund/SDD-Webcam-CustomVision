@@ -49,10 +49,10 @@ if __name__ == '__main__':
     for cam in webcams:
         try:
             pc.get_image(cam['URL'], cam['ID'])
-            pc.count_people(verbose=False)
-            #cam['Personenzahl'] = pc.count_people(verbose=False)
-            #cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
-            #print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
+            #pc.count_people(verbose=False)
+            cam['Personenzahl'] = pc.count_people(verbose=False)
+            cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+            print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
         except urllib.error.HTTPError as e:
             print(cam["Name"]+" :"+'The server couldn\'t fulfill the request.')
             print('Error code: ', e.code)
@@ -65,11 +65,11 @@ if __name__ == '__main__':
 
     client_s3 = boto3.client("s3" )
 
-    #response = client_s3.put_object(
-    #    Bucket="sdd-s3-bucket",
-    #    Body=json.dumps(webcams),
-    #    Key=f"webcamdaten/{datetime.now().strftime('%Y/%m/%d/%H')}webcamdaten.json"
-    #  )
+    response = client_s3.put_object(
+        Bucket="sdd-s3-bucket",
+        Body=json.dumps(webcams),
+        Key=f"webcamdaten/{datetime.now().strftime('%Y/%m/%d/%H')}webcamdaten.json"
+      )
     
     #directory = r'/tmp'
     #for filename in os.listdir(directory):
