@@ -47,6 +47,7 @@ if __name__ == '__main__':
         webcams = json.load(f)
     pc = PeopleCounter()
     for cam in webcams:
+        print(cam)
         try:
             pc.get_image(cam['URL'], cam['ID'])
             #pc.count_people(verbose=False)
