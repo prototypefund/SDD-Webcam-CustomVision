@@ -68,7 +68,7 @@ if __name__ == '__main__':
     response = client_s3.put_object(
         Bucket="sdd-s3-bucket",
         Body=json.dumps(webcams),
-        Key=f"webcamdaten/{datetime.now().strftime('%Y/%m/%d/%H')}webcamdaten.json"
+        Key=f"webcamdaten/{datetime.now().strftime('%Y/%m/%d/%H')}webcamdaten-customvision.json"
       )
     
     #directory = r'/tmp'
