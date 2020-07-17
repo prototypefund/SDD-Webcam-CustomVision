@@ -53,8 +53,8 @@ if __name__ == '__main__':
             print(cam["Name"]+" :"+'We failed to reach a server.')
             print('Reason: ', e.reason)
         except:
-            #pass
-            print("Unexpected error:", sys.exc_info()[0])
+            pass
+            #print("Unexpected error:", sys.exc_info()[0])
 
     client_s3 = boto3.client("s3" )
 
