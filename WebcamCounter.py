@@ -61,7 +61,7 @@ if __name__ == '__main__':
             print('Reason: ', e.reason)
         except:
             #pass
-            print()
+            print("Unexpected error:", sys.exc_info()[0])
 
     client_s3 = boto3.client("s3" )
 
