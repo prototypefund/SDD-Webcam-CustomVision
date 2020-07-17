@@ -32,9 +32,9 @@ class PeopleCounter:
         directory = r'/tmp'
         for filename in os.listdir(directory):
             if filename.endswith(".jpg"):
-               print(os.path.join(directory, filename))             
-               #predjs = json.loads(predict.main(os.path.join(directory, filename)))
-               #peoplecount = len(predjs)
+               print(os.path.join(directory, filename))            
+               pred = predict.main(os.path.join(directory, filename))
+               peoplecount = len([x for x in eval(pred) if x["probability"]>0.5]) 
                print(predict.main(os.path.join(directory, filename)))
                print("count of people : ",peoplecount) 
             else:
