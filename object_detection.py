@@ -15,7 +15,7 @@ class ObjectDetection(object):
     IOU_THRESHOLD = 0.45
     DEFAULT_INPUT_SIZE = 512 * 512
 
-    def __init__(self, labels, prob_threshold=0.10, max_detections = 20):
+    def __init__(self, labels, prob_threshold=0.10, max_detections = 1000):
         """Initialize the class
 
         Args:
