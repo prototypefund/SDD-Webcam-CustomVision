@@ -20,8 +20,16 @@ import gc
 ssl._create_default_https_context = ssl._create_unverified_context
 
 class PeopleCounter:
-    def get_image(self, url, id):
-        resp = urllib.request.urlopen(url, timeout=10)
+    def get_image(self, url, id):     
+        req = urllib.request.Request(
+           url, 
+           data=None, 
+           headers={
+           'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
+           }
+        )
+        resp = urllib.request.urlopen(req, timeout=10)
+        #resp = urllib.request.urlopen(url, timeout=10)
         self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
         self.image = cv2.imdecode(self.image, -1)
