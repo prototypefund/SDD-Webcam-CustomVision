@@ -1213,5 +1213,14 @@
         "Name": "Prien am Chiemsee Yachthotel",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 134,
+        "URL": "http://www.bayernwebcam.de/bilder/tann.jpg",
+        "Lat": "48.3147035",
+        "Lon": "12.8913274",
+        "Name": "Tann",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
