@@ -1240,5 +1240,14 @@
         "Name": "Traunreut Rathausplatz",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 137,
+        "URL": "http://mail2.tuessling.de:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
+        "Lat": "48.2124029",
+        "Lon": "12.6000408",
+        "Name": "Tüßling Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
