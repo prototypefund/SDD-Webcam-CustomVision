@@ -29,12 +29,9 @@ class PeopleCounter:
            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
            }
         )
-        socket.setdefaulttimeout(10)
-        print("Requesting Image : ",url)
-        try:
-           resp = urllib.request.urlopen(req, timeout=10)
-        except Exception as e:
-           print("URL is stream")
+        sock=urllib.urlretrieve(url)
+        capture = cv.CaptureFromFile(sock[0])
+        resp = cv.QueryFrame(capture)
         #resp = urllib.request.urlopen(req, timeout=10)
         #resp = urllib.request.urlopen(url, timeout=10)
         self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
