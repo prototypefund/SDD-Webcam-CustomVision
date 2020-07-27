@@ -1105,16 +1105,7 @@
         "Name": "Bruchsal Marktplatz",
         "Personenzahl": null,
         "Stand": null
-     },   
-     {
-        "ID": 123,
-        "URL": "https://www.bad-toelz.de/fileadmin/webcams/kurierrauf/current.jpg",
-        "Lat": "47.7608979",
-        "Lon": "11.557700",
-        "Name": "Bad Tölz Marienbrunnen",
-        "Personenzahl": null,
-        "Stand": null
-     },     
+     },
      {
         "ID": 127,
         "URL": "http://93.241.229.242:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
