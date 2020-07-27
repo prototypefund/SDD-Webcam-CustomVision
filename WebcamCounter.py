@@ -16,6 +16,7 @@ import json
 import ssl
 import os
 import gc
+import socket
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -28,8 +29,13 @@ class PeopleCounter:
            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
            }
         )
-        print("Requesting Image : ",url)       
-        resp = urllib.request.urlopen(req, timeout=10)
+        socket.setdefaulttimeout(10)
+        print("Requesting Image : ",url)
+        try:
+           resp = urllib.request.urlopen(req, timeout=10)
+        except Exception as e:
+           print("URL is stream")
+        #resp = urllib.request.urlopen(req, timeout=10)
         #resp = urllib.request.urlopen(url, timeout=10)
         self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
