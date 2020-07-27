@@ -15,6 +15,7 @@ import boto3
 import json
 import ssl
 import os
+import gc
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -32,7 +33,8 @@ class PeopleCounter:
         print(pred) 
         os.remove(os.path.join(directory, filename))
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
-        print("count of people : ",peoplecount) 
+        print("count of people : ",peoplecount)
+        gc.collect()
         return peoplecount
 
 
