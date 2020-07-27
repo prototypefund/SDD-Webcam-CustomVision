@@ -1107,6 +1107,42 @@
         "Stand": null
      },
      {
+        "ID": 123,
+        "URL": "https://www.bad-toelz.de/fileadmin/webcams/kurierrauf/current.jpg",
+        "Lat": "47.7608979",
+        "Lon": "11.557700",
+        "Name": "Bad Tölz Marienbrunnen",
+        "Personenzahl": null,
+        "Stand": null
+     },     
+     {
+        "ID": 124,
+        "URL": "https://www.bad-toelz.de/fileadmin/webcams/isarbruecke/current.jpg",
+        "Lat": "47.7597492",
+        "Lon": "11.5566962",
+        "Name": "Bad Tölz Isarbrücke",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 125,
+        "URL": "https://www.foto-webcam.eu/webcam/fuerstenfeld/current/640.jpg",
+        "Lat": "48.1702511",
+        "Lon": "11.2463656",
+        "Name": "Fürstenfeldbruck Veranstaltungsforum",
+        "Personenzahl": null,
+        "Stand": null
+     },   
+     {
+        "ID": 126,
+        "URL": "http://www.bayernwebcam.de/bilder/badbayersoien.jpg",
+        "Lat": "47.6886425",
+        "Lon": "11.0038248",
+        "Name": "Bad Bayersoien",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
         "ID": 127,
         "URL": "http://93.241.229.242:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
         "Lat": "47.8042656",
