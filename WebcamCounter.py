@@ -25,10 +25,10 @@ class PeopleCounter:
         self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
         self.image = cv2.imdecode(self.image, -1)
-        filename = "/tmp/"+ str(id) + ".jpg"
+        filename = os.getenv("CODEBUILD_SRC_DIR") + str(id) + ".jpg"
         status = cv2.imwrite(filename, self.image)
         print("Image written to file-system : ",status)
-        directory = r'/tmp'
+        directory = os.getenv("CODEBUILD_SRC_DIR")
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
