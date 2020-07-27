@@ -1141,5 +1141,14 @@
         "Name": "Fürstenfeldbruck Veranstaltungsforum",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 126,
+        "URL": "http://www.bayernwebcam.de/bilder/badbayersoien.jpg",
+        "Lat": "47.6886425",
+        "Lon": "11.0038248",
+        "Name": "Bad Bayersoien",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
