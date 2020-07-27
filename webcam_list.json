@@ -1177,5 +1177,14 @@
         "Name": "Kreuth Warmfreibad",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 130,
+        "URL": "http://www.bayernwebcam.de/bilder/badrottach.jpg",
+        "Lat": "47.6947075",
+        "Lon": "11.7684548",
+        "Name": "Rottach-Egern See- und Warmbad",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
