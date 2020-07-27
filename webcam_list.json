@@ -1123,16 +1123,7 @@
         "Name": "Bad Tölz Marienbrunnen",
         "Personenzahl": null,
         "Stand": null
-     },
-     {
-        "ID": 124,
-        "URL": "https://www.bad-toelz.de/fileadmin/webcams/isarbruecke/current.jpg",
-        "Lat": "47.7597492",
-        "Lon": "11.5566962",
-        "Name": "Bad Tölz Isarbrücke",
-        "Personenzahl": null,
-        "Stand": null
-     },
+     },     
      {
         "ID": 127,
         "URL": "http://93.241.229.242:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
