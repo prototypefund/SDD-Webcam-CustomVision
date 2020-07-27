@@ -1132,5 +1132,14 @@
         "Name": "Bad Tölz Isarbrücke",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 125,
+        "URL": "https://www.foto-webcam.eu/webcam/fuerstenfeld/current/640.jpg",
+        "Lat": "48.1702511",
+        "Lon": "11.2463656",
+        "Name": "Fürstenfeldbruck Veranstaltungsforum",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
