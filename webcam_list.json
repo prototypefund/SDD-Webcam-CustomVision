@@ -1222,5 +1222,23 @@
         "Name": "Tann",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 135,
+        "URL": "http://www.bayernwebcam.de/bilder/traunreut3.jpg",
+        "Lat": "47.9622555",
+        "Lon": "12.5915258",
+        "Name": "Traunreut Stadplatz",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 136,
+        "URL": "http://www.bayernwebcam.de/bilder/traunreut1.jpg",
+        "Lat": "47.9619648",
+        "Lon": "12.5916437",
+        "Name": "Traunreut Rathausplatz",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
