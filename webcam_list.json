@@ -1105,16 +1105,7 @@
         "Name": "Bruchsal Marktplatz",
         "Personenzahl": null,
         "Stand": null
-     },
-     {
-        "ID": 122,
-        "URL": "https://www.bad-toelz.de/fileadmin/webcams/wiedemanncam/aaa.jpg",
-        "Lat": "47.7611143",
-        "Lon": "11.5582509",
-        "Name": "Bad Tölz Marktstrasse",
-        "Personenzahl": null,
-        "Stand": null
-     },
+     },   
      {
         "ID": 123,
         "URL": "https://www.bad-toelz.de/fileadmin/webcams/kurierrauf/current.jpg",
