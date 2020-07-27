@@ -33,7 +33,7 @@ class PeopleCounter:
         while True:
           frame=cv.QueryFrame(capture)
           if frame is None:
-            print 'Cam not found'
+            print('Cam not found')
           else:
            resp = cv.QueryFrame(capture)
         #resp = urllib.request.urlopen(req, timeout=10)
