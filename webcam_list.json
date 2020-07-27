@@ -1101,8 +1101,26 @@
         "ID": 121,
         "URL": "http://www.bruchsal.de/bruchsal/webcam/stadtnetz-cam.jpg",
         "Lat": "49.124",
-        "Lon": " 8.596",
+        "Lon": "8.596",
         "Name": "Bruchsal Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 122,
+        "URL": "https://www.bad-toelz.de/fileadmin/webcams/wiedemanncam/aaa.jpg",
+        "Lat": "47.7611143",
+        "Lon": "11.5582509",
+        "Name": "Bad Tölz Marktstrasse",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 123,
+        "URL": "https://www.bad-toelz.de/fileadmin/webcams/kurierrauf/current.jpg",
+        "Lat": "47.7608979",
+        "Lon": "11.557700",
+        "Name": "Bad Tölz Marienbrunnen",
         "Personenzahl": null,
         "Stand": null
      }
