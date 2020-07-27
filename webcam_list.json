@@ -1150,5 +1150,32 @@
         "Name": "Bad Bayersoien",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 127,
+        "URL": "http://93.241.229.242:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
+        "Lat": "47.8042656",
+        "Lon": "12.8545399",
+        "Name": "Anger",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 128,
+        "URL": "http://80.151.86.36:8082/cgi-bin/hi3510/mjpegstream.cgi?-chn=11&-usr=gast&-pwd=gast",
+        "Lat": "48.2265126",
+        "Lon": "12.6736169",
+        "Name": "Altötting Kapellplatz",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 129,
+        "URL": "http://www.bayernwebcam.de/bilder/kreuth.jpg",
+        "Lat": "47.6446091",
+        "Lon": "11.7437703",
+        "Name": "Kreuth Warmfreibad",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
