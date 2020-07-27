@@ -21,7 +21,7 @@ ssl._create_default_https_context = ssl._create_unverified_context
 
 class PeopleCounter:
     def get_image(self, url, id):
-        resp = urllib.request.urlopen(url)
+        resp = urllib.request.urlopen(url, timeout=10)
         self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
         self.image = cv2.imdecode(self.image, -1)
