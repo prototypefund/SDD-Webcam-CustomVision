@@ -30,6 +30,7 @@ class PeopleCounter:
         directory = r'/tmp'
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
+        os.remove(os.path.join(directory, filename))
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount) 
         return peoplecount
