@@ -1186,5 +1186,32 @@
         "Name": "Rottach-Egern See- und Warmbad",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 131,
+        "URL": "http://hofe19.ddns3-instar.de/tmpfs/auto.jpg?usr=test&pwd=test",
+        "Lat": "47.7193637",
+        "Lon": "11.7249028",
+        "Name": "Bad Wiessee",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 132,
+        "URL": "http://217.86.136.114:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
+        "Lat": "48.241489",
+        "Lon": "12.6816685",
+        "Name": "Neuötting",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 133,
+        "URL": "http://217.86.136.114:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
+        "Lat": "47.7438817",
+        "Lon": "11.7735357",
+        "Name": "Oedbergalm Sommerrodelbahn",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
