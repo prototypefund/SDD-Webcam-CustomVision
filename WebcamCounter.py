@@ -28,8 +28,8 @@ class PeopleCounter:
         status = cv2.imwrite(filename, self.image)
         print("Image written to file-system : ",status)
         directory = r'/tmp'
-        print(os.path.join(directory, filename))            
         pred = predict.main(os.path.join(directory, filename))
+        print(pred) 
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print(predict.main(os.path.join(directory, filename)))
         print("count of people : ",peoplecount) 
