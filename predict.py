@@ -13,6 +13,14 @@ from object_detection import ObjectDetection
 MODEL_FILENAME = 'model.pb'
 LABELS_FILENAME = 'labels.txt'
 
+# Load a TensorFlow model
+graph_def = tf.compat.v1.GraphDef()
+with tf.io.gfile.GFile(MODEL_FILENAME, 'rb') as f:
+    graph_def.ParseFromString(f.read())
+
+# Load labels
+with open(LABELS_FILENAME, 'r') as f:
+    labels = [l.strip() for l in f.readlines()]
 
 class TFObjectDetection(ObjectDetection):
     """Object Detection class for TensorFlow"""
@@ -32,22 +40,11 @@ class TFObjectDetection(ObjectDetection):
             outputs = sess.run(output_tensor, {'Placeholder:0': inputs[np.newaxis, ...]})
             return outputs[0]
 
+od_model = TFObjectDetection(graph_def, labels)
 
 def main(image_filename):
-    # Load a TensorFlow model
-    graph_def = tf.compat.v1.GraphDef()
-    with tf.io.gfile.GFile(MODEL_FILENAME, 'rb') as f:
-        graph_def.ParseFromString(f.read())
-
-    # Load labels
-    with open(LABELS_FILENAME, 'r') as f:
-        labels = [l.strip() for l in f.readlines()]
-
-    od_model = TFObjectDetection(graph_def, labels)
-
     image = Image.open(image_filename)
     predictions = od_model.predict_image(image)
-    #print(predictions)
     return predictions
 
 
