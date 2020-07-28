@@ -20,6 +20,8 @@ import socket
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
+requests.packages.urllib3.util.ssl_.DEFAULT_CIPHERS = 'DH+AESGCM:ECDH+AES256:DH+AES256:ECDH+AES128:DH+AES:ECDH+HIGH:DH+HIGH:ECDH+3DES:DH+3DES:RSA+AESGCM:RSA+AES:RSA+HIGH:RSA+3DES:!aNULL:!eNULL:!MD5'
+
 class PeopleCounter:
     def get_image(self, url, id):     
         req = urllib.request.Request(
