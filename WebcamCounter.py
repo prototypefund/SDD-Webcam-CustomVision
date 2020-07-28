@@ -52,7 +52,7 @@ if __name__ == '__main__':
         webcams = json.load(f)
     pc = PeopleCounter()
     for cam in webcams:
-        print(cam)        
+        print(cam)
         try:
             cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
             cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
