@@ -601,16 +601,7 @@
         "Name": "Dresden Bergstraße",
         "Personenzahl": null,
         "Stand": null
-    },
-    {
-        "ID": 67,
-        "URL": "http://allthos.de/lions/dresden.jpg",
-        "Lat": "51.0564335",
-        "Lon": "13.736906",
-        "Name": "Dresden Neustädter Elbufer",
-        "Personenzahl": null,
-        "Stand": null
-    },
+    },    
     {
         "ID": 68,
         "URL": "https://www.oederan.de/webcam2017/video.jpg",
