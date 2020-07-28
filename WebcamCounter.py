@@ -45,6 +45,29 @@ class PeopleCounter:
         print("count of people : ",peoplecount)
         gc.collect()
         return peoplecount
+    
+    def get_video(self, url, id):     
+        cap = cv2.VideoCapture(url)ret, frame_bgr = cap.read()
+        cap.release()
+        #unkommentieren falls rgb gewünscht
+        frame_rgb = cv2.cvtColor(frame_bgr, cv2.COLOR_BGR2RGB)
+        image = frame_rgb.flatten()
+        # Zum überprüfen...
+        #cv2.imwrite("C://test.jpg",frame_bgr)
+        #self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
+        #if self.img is not None:
+        #self.image = cv2.imdecode(self.image, -1)
+        filename = "/tmp/"+ str(id) + ".jpg"
+        status = cv2.imwrite(filename, self.image)
+        print("Image written to file-system : ",status)
+        directory = r'/tmp'
+        pred = predict.main(os.path.join(directory, filename))
+        print(pred) 
+        os.remove(os.path.join(directory, filename))
+        peoplecount = len([x for x in pred if x["probability"]>0.5]) 
+        print("count of people : ",peoplecount)
+        gc.collect()
+        return peoplecount
 
 
 if __name__ == '__main__':
@@ -55,8 +78,17 @@ if __name__ == '__main__':
         print(cam)
         if cam['Video'] == 'true':
            print('Camera is stream')
+           try:
+               print('Camera is Image')
+               cam['Personenzahl'] =  pc.get_video(cam['URL'], cam['ID'])
+               cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+               print(cam["Name"]+" :"+str(cam["Personenzahl"]))     
+           except:
+               pass
+               #print("Unexpected error:", sys.exc_info()[0])
         else:
            try:
+               print('Camera is Image')
                cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
                print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
