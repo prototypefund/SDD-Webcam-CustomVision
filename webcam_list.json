@@ -102,6 +102,7 @@
     {
         "ID": 11,
         "URL": "https://www.radolfzell.de/docs/webcam/radolfzell_640.jpg",
+        "Video": "false",
         "Lat": " 47.745237",
         "Lon": "8.966910",
         "Name": "Radolfzell Marktplatz",
@@ -111,6 +112,7 @@
     {
         "ID": 12,
         "URL": "http://ftp.kaufhaus.ludwigbeck.de/webcam/webcam.jpg",
+        "Video": "false",
         "Lat": "48.137079",
         "Lon": "11.576006",
         "Name": "München Marienplatz",
@@ -120,6 +122,7 @@
     {
         "ID": 13,
         "URL": "https://cdn01.koeln.de/uploads/webcam/live.jpg",
+        "Video": "false",
         "Lat": "50.941278",
         "Lon": "6.958281",
         "Name": "Köln Domplatte",
@@ -129,6 +132,7 @@
     {
         "ID": 14,
         "URL": "http://www.adlerauge1.de/subs/www/current.jpg",
+        "Video": "false",
         "Lat": "51.513989",
         "Lon": "7.466483",
         "Name": "Dortmund Markt",
@@ -138,6 +142,7 @@
     {
         "ID": 15,
         "URL": "https://www.hal-oever.de/webcam/schlastshut.jpg",
+        "Video": "false",
         "Lat": "53.078206",
         "Lon": "8.799147",
         "Name": "Bremen Schlachten",
@@ -147,6 +152,7 @@
     {
         "ID": 16,
         "URL": "https://www.call-mail-call.de/webcam/000M.jpg",
+        "Video": "false",
         "Lat": "52.376701",
         "Lon": "9.728407",
         "Name": "Hannover Laube",
@@ -156,6 +162,7 @@
     {
         "ID": 17,
         "URL": "http://80.151.116.140:19812/record/current.jpg",
+        "Video": "false",
         "Lat": "50.043667",
         "Lon": "10.2330092",
         "Name": "Schweinfurt Spitalstraße",
@@ -165,6 +172,7 @@
     {
         "ID": 18,
         "URL": "http://109.90.6.242/record/current.jpg",
+        "Video": "false",
         "Lat": "52.028423",
         "Lon": "8.901522",
         "Name": "Lemgo Mittelstraße",
@@ -174,6 +182,7 @@
     {
         "ID": 19,
         "URL": "https://www.fiwa-forum.de/webcam/fiwa-forum-cam.jpg",
+        "Video": "false",
         "Lat": "51.630403",
         "Lon": "13.708284",
         "Name": "Finsterwalde Marktplatz",
@@ -183,6 +192,7 @@
     {
         "ID": 20,
         "URL": "https://rathaus-hildesheim.de/webcam/webcam.jpg",
+        "Video": "false",
         "Lat": "52.1527203",
         "Lon": "9.9515704",
         "Name": "Hildesheim Marktplatz",
@@ -192,6 +202,7 @@
     {
         "ID": 21,
         "URL": "https://www.siegen.de/fileadmin/cms/bilder/Webcam/WebCam_Siegen.jpg",
+        "Video": "false",
         "Lat": "50.8335211",
         "Lon": "7.9867985",
         "Name": "Siegen Marktplatz",
@@ -201,6 +212,7 @@
     {
         "ID": 22,
         "URL": "https://lamp01.dortmund.de/webcams/friedensplatz/current.jpg",
+        "Video": "false",
         "Lat": "51.511543",
         "Lon": "7.466345",
         "Name": "Dortmund Friedensplatz",
@@ -210,6 +222,7 @@
     {
         "ID": 23,
         "URL": "https://lamp01.dortmund.de/webcams/altermarkt_hik/current_TIMING.jpg",
+        "Video": "false",
         "Lat": "51.513989",
         "Lon": "7.466483",
         "Name": "Dortmund Alter Markt",
@@ -219,6 +232,7 @@
     {
         "ID": 24,
         "URL": "https://service.ka-news.de/tools/webcams/?cam=27",
+        "Video": "false",
         "Lat": "49.009220",
         "Lon": "8.403912",
         "Name": "Karlsruhe Marktplatz",
@@ -228,6 +242,7 @@
     {
         "ID": 25,
         "URL": "https://service.ka-news.de/tools/webcams/?cam=39",
+        "Video": "false",
         "Lat": "49.0099302",
         "Lon": "8.3920208",
         "Name": "Karlsruhe Europaplatz",
@@ -237,6 +252,7 @@
     {
         "ID": 26,
         "URL": "https://www.augsburg.de/fileadmin/user_upload/header/webcam/webcamdachspitz/B_Rathausplatz_Dachspitz_00.jpg",
+        "Video": "false",
         "Lat": "48.368963",
         "Lon": "10.898227",
         "Name": "Augsburg Rathausplatz",
@@ -246,6 +262,7 @@
     {
         "ID": 27,
         "URL": "https://www2.braunschweig.de/webcam/schloss.jpg",
+        "Video": "false",
         "Lat": "52.263363",
         "Lon": "10.527763",
         "Name": "Braunschweig Schloss",
@@ -255,6 +272,7 @@
     {
         "ID": 28,
         "URL": "http://webcambild-rathaus.aachen.de/webcam_rathaus.jpg",
+        "Video": "false",
         "Lat": "50.776103",
         "Lon": "6.083780",
         "Name": "Aachen Rathaus",
@@ -264,6 +282,7 @@
     {
         "ID": 29,
         "URL": "http://www.brillen-krille.de/Webcam/foto.jpg",
+        "Video": "false",
         "Lat": "54.087890",
         "Lon": "12.134464",
         "Name": "Rostock Universitätsplatz",
@@ -273,6 +292,7 @@
     {
         "ID": 30,
         "URL": "https://www.mvv.de/fileadmin/user_upload/Systemdateien/Webcam/current.jpg",
+        "Video": "false",
         "Lat": "49.4840612",
         "Lon": "8.4733678",
         "Name": "Mannheim Wasserturm",
@@ -282,6 +302,7 @@
     {
         "ID": 31,
         "URL": "https://www.theater-schwedt.de/ubs/cam/130/",
+        "Video": "false",
         "Lat": "53.0617394",
         "Lon": "14.2838004",
         "Name": "Schwedt Lindenallee",
@@ -291,6 +312,7 @@
     {
         "ID": 32,
         "URL": "https://webcam.stuttgart.de/wcam007/current.jpg",
+        "Video": "false",
         "Lat": "48.7754909",
         "Lon": "9.1763283",
         "Name": "Stuttgart Marktplatz",
@@ -300,6 +322,7 @@
     {
         "ID": 33,
         "URL": "http://gewerbeverein-adorf.de/Webcam/webcam.jpg",
+        "Video": "false",
         "Lat": "50.320905",
         "Lon": "12.2520966",
         "Name": "Adorf Marktplatz",
@@ -309,6 +332,7 @@
     {
         "ID": 34,
         "URL": "https://www.coswig.de/files/coswig/rathaus/webcam/webcam.jpg",
+        "Video": "false",
         "Lat": "51.1271276",
         "Lon": "13.5782501",
         "Name": "Coswig Hauptstrasse",
@@ -318,6 +342,7 @@
     {
         "ID": 35,
         "URL": "https://ewerk.tv/lvb/LVBHBF/lvbhbf.jpg",
+        "Video": "false",
         "Lat": "51.3447766",
         "Lon": "12.379377",
         "Name": "Leipzig Hauptbahnhof",
@@ -327,6 +352,7 @@
     {
         "ID": 35,
         "URL": "http://www1.mittweida.de/live/current.jpg",
+        "Video": "false",
         "Lat": "50.9853543",
         "Lon": "12.9791249",
         "Name": "Mittweida Marktplatz",
@@ -336,6 +362,7 @@
     {
         "ID": 36,
         "URL": "http://webcam.oelsnitz.de/jpg/image.jpg",
+        "Video": "false",
         "Lat": "50.4156035",
         "Lon": "12.1696213",
         "Name": "Oelsnitz Marktplatz",
@@ -345,6 +372,7 @@
     {
         "ID": 37,
         "URL": "https://www.ku-weit.eu/zittau/Gallery/cam_1.jpg",
+        "Video": "false",
         "Lat": "50.8962152",
         "Lon": "14.8080447",
         "Name": "Zittau Salzhaus",
@@ -354,6 +382,7 @@
     {
         "ID": 38,
         "URL": "https://www.altenburg.eu//WebCam1/axis-cgi/jpg/image.cgi?resolution=640x480",
+        "Video": "false",
         "Lat": "50.984929",
         "Lon": "12.4310653",
         "Name": "Altenburg Markt",
@@ -363,6 +392,7 @@
     {
         "ID": 39,
         "URL": "http://wovi95.ddns-instar.com:81/snapshot.jpg?user=gast&pwd=gast&Fri%20Mar%2027%202020%2010%3A15%3A01%20GMT+0100%20%28Mitteleurop%E4ische%20Normalzeit%29",
+        "Video": "false",
         "Lat": "50.4474983",
         "Lon": "11.6380773",
         "Name": "Bad Lobenstein Markt",
@@ -372,6 +402,7 @@
     {
         "ID": 40,
         "URL": "https://www.erfurt.de/webcam/domplatz.jpg",
+        "Video": "false",
         "Lat": "50.9772478",
         "Lon": "11.0218204",
         "Name": "Erfurt Domplatz",
@@ -381,6 +412,7 @@
     {
         "ID": 41,
         "URL": "http://www.thueringer-webcams.de/kunden/mdr/weimar/livebild-pal.jpg",
+        "Video": "false",
         "Lat": "50.9798182",
         "Lon": "11.3233716",
         "Name": "Weimar Theaterplatz",
@@ -390,6 +422,7 @@
     {
         "ID": 42,
         "URL": "http://www.aschersleben.de/webcams/Rathaus.jpeg",
+        "Video": "false",
         "Lat": "48.6939552",
         "Lon": "9.1178365",
         "Name": "Aschersleben Markt",
@@ -399,6 +432,7 @@
     {
         "ID": 43,
         "URL": "https://www.gardelegen.de/webcam/webcam.jpg",
+        "Video": "false",
         "Lat": "52.446933",
         "Lon": "11.4835116",
         "Name": "Gardelegen Markt",
@@ -408,6 +442,7 @@
     {
         "ID": 44,
         "URL": "http://swhcam2.evh.de/vhughsize.jpg",
+        "Video": "false",
         "Lat": "51.4868011",
         "Lon": "11.9384423",
         "Name": "Halle (Saale) Markt",
@@ -417,6 +452,7 @@
     {
         "ID": 45,
         "URL": "https://webcam.lutherstadt-eisleben.de/markt.jpg",
+        "Video": "false",
         "Lat": "51.5282306",
         "Lon": "11.5452827",
         "Name": "Lutherstadt Eisleben Markt",
@@ -426,6 +462,7 @@
     {
         "ID": 46,
         "URL": "http://webcam.naumburg.de/camimage.jpg",
+        "Video": "false",
         "Lat": "51.152475",
         "Lon": "11.8073854",
         "Name": "Naumburg (Saale) Markt",
@@ -435,6 +472,7 @@
     {
         "ID": 47,
         "URL": "https://www.hotelzumbaer.de/cam/image.jpg",
+        "Video": "false",
         "Lat": "51.789",
         "Lon": "11.1392834",
         "Name": "Quedlingburg Markt",
@@ -444,6 +482,7 @@
     {
         "ID": 48,
         "URL": "https://www.exempel.de/images/webcam/snapshot_current.jpg",
+        "Video": "false",
         "Lat": "52.5403281",
         "Lon": "11.9694902",
         "Name": "Tangermünde Markt",
@@ -453,6 +492,7 @@
     {
         "ID": 49,
         "URL": "https://www.ostseebad-ahrenshoop.de/webcam/ahrenshoop-strand.jpg",
+        "Video": "false",
         "Lat": "54.3785813",
         "Lon": "12.4102697",
         "Name": "Ahrenshoop Strand",
@@ -462,6 +502,7 @@
     {
         "ID": 50,
         "URL": "http://www.nwm-net.de/markt/aktuellesbild.jpg",
+        "Video": "false",
         "Lat": "53.8646453",
         "Lon": "11.1818843",
         "Name": "Grevesmühlen Markt",
@@ -471,6 +512,7 @@
     {
         "ID": 51,
         "URL": "https://media.webdatendienst.de/webcam1_a.jpg",
+        "Video": "false",
         "Lat": "53.9570837",
         "Lon": "14.1651142",
         "Name": "Heringsdorf",
@@ -480,6 +522,7 @@
     {
         "ID": 52,
         "URL": "http://usedomhafen.selfhost.eu:8080/cam_3.jpg",
+        "Video": "false",
         "Lat": "53.8724447",
         "Lon": "13.915819",
         "Name": "Usedom",
@@ -489,6 +532,7 @@
     {
         "ID": 53,
         "URL": "http://webcam.aichach.de/webaic.jpg",
+        "Video": "false",
         "Lat": "48.4591603",
         "Lon": "11.1289321",
         "Name": "Aichach Marktplatz",
@@ -498,6 +542,7 @@
     {
         "ID": 54,
         "URL": "https://mzcam.kunden-mediamachine.de/markt/bild.jpg",
+        "Video": "false",
         "Lat": "49.9986667",
         "Lon": "8.2721841",
         "Name": "Mainz Dom",
@@ -507,6 +552,7 @@
     {
         "ID": 55,
         "URL": "http://www2.neustadt.eu/download/webcam/current.jpg",
+        "Video": "false",
         "Lat": "49.3533866",
         "Lon": "8.1338495",
         "Name": "Neustadt Weinstraße Marktplatz",
@@ -516,6 +562,7 @@
     {
         "ID": 56,
         "URL": "https://falken-webcam.worms.de/webcam/current.jpg",
+        "Video": "false",
         "Lat": "49.6302144",
         "Lon": "8.3591628",
         "Name": "Worms Marktplatz",
@@ -525,6 +572,7 @@
     {
         "ID": 57,
         "URL": "https://www.bensheim.org/Webcams/images/webcams/current2.jpg",
+        "Video": "false",
         "Lat": "49.6781939",
         "Lon": "8.6216948",
         "Name": "Bensheim Fußgängerzone",
@@ -534,6 +582,7 @@
     {
         "ID": 58,
         "URL": "https://www.bensheim.org/Webcams/images/webcams/current0.jpg",
+        "Video": "false",
         "Lat": "49.680983",
         "Lon": "8.6207077",
         "Name": "Bensheim Marktplatz",
@@ -543,6 +592,7 @@
     {
         "ID": 59,
         "URL": "http://www.safetec-cam.biz/images/webcam/standard/kaiserstrasse_friedberg.jpg",
+        "Video": "false",
         "Lat": "50.3347517",
         "Lon": "8.750523",
         "Name": "Friedberg Kaiserstrasse",
@@ -552,6 +602,7 @@
     {
         "ID": 60,
         "URL": "http://www.webcam-rimbach.de/images/c1image_big.jpg",
+        "Video": "false",
         "Lat": "49.623281",
         "Lon": "8.7570742",
         "Name": "Rimbach Marktplatz",
@@ -561,6 +612,7 @@
     {
         "ID": 61,
         "URL": "https://www.hal-oever.de/webcam/schlastshut.jpg",
+        "Video": "false",
         "Lat": "53.0749188",
         "Lon": "8.8016672",
         "Name": "Bremen Werserpromenande",
@@ -570,6 +622,7 @@
     {
         "ID": 62,
         "URL": "http://fischmarkt.no-ip.biz/record/current.jpg",
+        "Video": "false",
         "Lat": "53.5440922",
         "Lon": "9.9187187",
         "Name": "Hamburg Fischmarkt",
@@ -579,6 +632,7 @@
     {
         "ID": 63,
         "URL": "https://www.vvo-online.de/img/webcamimages/marienbruecke-102.jpg",
+        "Video": "false",
         "Lat": "51.0615957",
         "Lon": "13.7320668",
         "Name": "Dresden Marienbrücke",
@@ -588,6 +642,7 @@
     {
         "ID": 64,
         "URL": "https://www.vvo-online.de/img/webcamimages/koenigsbruecker_strasse_richtung_sued-111.jpg",
+        "Video": "false",
         "Lat": "51.0700056",
         "Lon": "13.74682",
         "Name": "Dresden Königsbrücker Str.",
@@ -597,6 +652,7 @@
     {
         "ID": 65,
         "URL": "https://www.vvo-online.de/img/webcamimages/albertbruecke-135.jpg",
+        "Video": "false",
         "Lat": "51.0571946",
         "Lon": "13.7523692",
         "Name": "Dresden Albertbrücke",
@@ -606,6 +662,7 @@
     {
         "ID": 66,
         "URL": "https://www.vvo-online.de/img/webcamimages/bergstrasse-149.jpg",
+        "Video": "false",
         "Lat": "51.0302823",
         "Lon": "13.7284321",
         "Name": "Dresden Bergstraße",
@@ -615,6 +672,7 @@
     {
         "ID": 68,
         "URL": "https://www.oederan.de/webcam2017/video.jpg",
+        "Video": "false",
         "Lat": "50.8617937",
         "Lon": "13.1645769",
         "Name": "Oederan Markt",
@@ -624,6 +682,7 @@
     {
         "ID": 69,
         "URL": "http://webcam.wilhelma.de/webcam02/webcam02.jpg",
+        "Video": "false",
         "Lat": "48.8041551",
         "Lon": "9.2058097",
         "Name": "Stuttgart Wilhelma",
@@ -633,6 +692,7 @@
     {
         "ID": 70,
         "URL": "https://www.wobau-badmuskau.de/wobaucam1/cambilder/marktplatz_bad_muskau.jpg",
+        "Video": "false",
         "Lat": "51.546968",
         "Lon": "14.7184007",
         "Name": "Bad Muskau",
@@ -642,6 +702,7 @@
     {
         "ID": 71,
         "URL": "http://www.bautzen-webcam.de/upload/MobAG5.jpg",
+        "Video": "false",
         "Lat": "51.1798389",
         "Lon": "14.4233251",
         "Name": "Bautzen Kornmarkt",
@@ -651,6 +712,7 @@
     {
         "ID": 72,
         "URL": "https://kamera.stausee-rabenstein.de/cam/image.jpg",
+        "Video": "false",
         "Lat": "50.8390949",
         "Lon": "12.8112592",
         "Name": "Stausee Rabenstein",
@@ -660,6 +722,7 @@
     {
         "ID": 73,
         "URL": "https://style-dach.de/webcam_projekte/Webcam_Doebeln_Obermarkt/webcamobermarkt.jpg",
+        "Video": "false",
         "Lat": "51.1219072",
         "Lon": "13.1202998",
         "Name": "Döbeln Markt",
@@ -669,6 +732,7 @@
     {
         "ID": 74,
         "URL": "https://www.goerlitz.de/webcamsab/altstadtbruecke.jpg",
+        "Video": "false",
         "Lat": "51.1576599",
         "Lon": "14.9919863",
         "Name": "Görlitz Altstadtbrücke",
@@ -678,6 +742,7 @@
     {
         "ID": 75,
         "URL": "https://www.hainichen.de/webcam/webcam-rh.jpg",
+        "Video": "false",
         "Lat": "50.9727078",
         "Lon": "13.120607",
         "Name": "Hainichen Markt",
@@ -687,6 +752,7 @@
     {
         "ID": 76,
         "URL": "https://www.plauen.de/cambilder/img03.jpg",
+        "Video": "false",
         "Lat": "50.4943576",
         "Lon": "12.1335227",
         "Name": "Plauen Altes Rathaus",
@@ -696,6 +762,7 @@
     {
         "ID": 77,
         "URL": "https://webcam-karlshagen.usedom-medien.de/webcam1.jpg",
+        "Video": "false",
         "Lat": "54.120889",
         "Lon": "13.8421253",
         "Name": "Karlshagen Ostseebad",
@@ -705,6 +772,7 @@
     {
         "ID": 78,
         "URL": "https://webcam-karlshagen.usedom-medien.de/webcam2.jpg",
+        "Video": "false",
         "Lat": "54.1213979",
         "Lon": "13.8388612",
         "Name": "Karlshagen Strandvorplatz",
@@ -714,6 +782,7 @@
     {
         "ID": 79,
         "URL": "https://www.wetter-trassenheide.de/template/trassenheide/webcamstrand/webcam_strand/trassenheide_karlshagen.jpg",
+        "Video": "false",
         "Lat": "54.0954499",
         "Lon": "13.8809276",
         "Name": "Trassenheide Strand Richtung Karlshagen",
@@ -723,6 +792,7 @@
     {
         "ID": 80,
         "URL": "https://www.wetter-trassenheide.de/template/trassenheide/webcamstrand/webcam_strand/trassenheide_zinnowitz.jpg",
+        "Video": "false",
         "Lat": "54.0954499",
         "Lon": "13.",
         "Name": "Trassenheide Strand Richtung Zinnowitz",
@@ -732,6 +802,7 @@
     {
         "ID": 81,
         "URL": "https://www.wetter-trassenheide.de/template/trassenheide/webcamstrand/webcamStrandvorplatz/trassenheide2.jpg",
+        "Video": "false",
         "Lat": "54.0959851",
         "Lon": "13.877473",
         "Name": "Trassenheide Strandvorplatz",
@@ -741,6 +812,7 @@
     {
         "ID": 82,
         "URL": "https://www.wetter-trassenheide.de/template/trassenheide/webcamstrand/webcam_promenade/trassenheide_strandpromenade.jpg",
+        "Video": "false",
         "Lat": "54.0972688",
         "Lon": "13.8754649",
         "Name": "Trassenheide Abenteuerspielplatz",
@@ -750,6 +822,7 @@
     {
         "ID": 83,
         "URL": "https://strandhotel-seerose.de/webcam/webcam/m1.jpg",
+        "Video": "false",
         "Lat": "54.0415337",
         "Lon": "14.0276174",
         "Name": "Kölpinsee Strandhotel Seerose",
@@ -759,6 +832,7 @@
     {
         "ID": 84,
         "URL": "https://media.webdatendienst.de/webcam1_a.jpg",
+        "Video": "false",
         "Lat": "53.9580873",
         "Lon": "14.1651233",
         "Name": "Heringsdorf Rosengarten",
@@ -768,6 +842,7 @@
     {
         "ID": 85,
         "URL": "http://www.usedom-downloads.de/public/aktuell/strandhotel-ostseeblick.jpg",
+        "Video": "false",
         "Lat": "53.9579537",
         "Lon": "14.1634293",
         "Name": "Heringsdorf Strandhotel",
@@ -777,6 +852,7 @@
     {
         "ID": 86,
         "URL": "https://www.pension-erdmann.de/ftp/MOBOTIX/test.jpg",
+        "Video": "false",
         "Lat": "53.9563353",
         "Lon": "14.1682633",
         "Name": "Heringsdorf Strand",
@@ -786,6 +862,7 @@
     {
         "ID": 87,
         "URL": "https://www.binz-kabel.de/camserv/images/schmachter.jpeg",
+        "Video": "false",
         "Lat": "54.3990262",
         "Lon": "13.6058455",
         "Name": "Binz Schmachter See",
@@ -795,6 +872,7 @@
     {
         "ID": 88,
         "URL": "https://www.binz-kabel.de/camserv/images/baltik.jpeg",
+        "Video": "false",
         "Lat": "54.39988",
         "Lon": "13.6155413",
         "Name": "Binz Strandzugang",
@@ -804,6 +882,7 @@
     {
         "ID": 89,
         "URL": "http://webcam.aquamaris.de/strand.jpg",
+        "Video": "false",
         "Lat": "54.6182222",
         "Lon": "13.3649393",
         "Name": "Juliusruh Hotel Aquamaris",
@@ -813,6 +892,7 @@
     {
         "ID": 94,
         "URL": "https://www.graal-mueritz.de/images/livebild-xl.jpg",
+        "Video": "false",
         "Lat": "54.259389",
         "Lon": "12.2394213",
         "Name": "Graal-Müritz Seebrücke",
@@ -822,6 +902,7 @@
     {
         "ID": 90,
         "URL": "http://www.glowe.de/webcam/webcamhd.jpg",
+        "Video": "false",
         "Lat": "54.5728915",
         "Lon": "13.4662861",
         "Name": "Glowe Strandpromenade",
@@ -831,6 +912,7 @@
     {
         "ID": 91,
         "URL": "https://ferienwohnung-lietzow.de/webcam/image.jpg",
+        "Video": "false",
         "Lat": "54.484937",
         "Lon": "13.5039823",
         "Name": "Lietzow Strand",
@@ -840,6 +922,7 @@
     {
         "ID": 92,
         "URL": "http://webcams.stoneds.de/born/cam/hafen-born.jpg",
+        "Video": "false",
         "Lat": "54.382278",
         "Lon": "12.5282923",
         "Name": "Born Hafen",
@@ -849,6 +932,7 @@
     {
         "ID": 93,
         "URL": "http://webcams.stoneds.de/wieck/cam/arche-wieck.jpg",
+        "Video": "false",
         "Lat": "54.4084895",
         "Lon": "12.5924506",
         "Name": "Wieck Hafen",
@@ -858,6 +942,7 @@
     {
         "ID": 94,
         "URL": "https://www.graal-mueritz.de/images/livebild-xl.jpg",
+        "Video": "false",
         "Lat": "54.259389",
         "Lon": "12.2394213",
         "Name": "Graal-Müritz Seebrücke",
@@ -867,6 +952,7 @@
     {
         "ID": 95,
         "URL": "https://www.ndr.de/public/webcams/wetter/greifswald.jpg",
+        "Video": "false",
         "Lat": "54.098952",
         "Lon": "13.3803343",
         "Name": "Greifswald Hafenstraße",
@@ -876,6 +962,7 @@
     {
         "ID": 96,
         "URL": "https://www.travelcharme.com/fileadmin/contents/02_ohk/ostseehotel-webcam2.jpg",
+        "Video": "false",
         "Lat": "54.154108",
         "Lon": "11.7593123",
         "Name": "Seebrücke Kühlungsborn",
@@ -885,6 +972,7 @@
     {
         "ID": 97,
         "URL": "https://www.travelcharme.com/fileadmin/contents/02_ohk/ostseehotel-webcam.jpg",
+        "Video": "false",
         "Lat": "54.154391",
         "Lon": "11.7576813",
         "Name": "Strand Kühlungsborn",
@@ -894,6 +982,7 @@
     {
         "ID": 98,
         "URL": "https://www.warendorf.de/fileadmin/webcam.jpg",
+        "Video": "false",
         "Lat": "51.9524591",
         "Lon": "7.9884348",
         "Name": "Warendorf Marktplatz",
@@ -903,6 +992,7 @@
     {
         "ID": 99,
         "URL": "https://www.ahlen.de/fileadmin/daten/content/webcam/markt/marktplatz.jpg",
+        "Video": "false",
         "Lat": "51.7627334",
         "Lon": "7.886659",
         "Name": "Ahlen Marktplatz",
@@ -912,6 +1002,7 @@
     {
         "ID": 100,
         "URL": "https://www.webcam.nethestadt.net/images2/webcam.jpg",
+        "Video": "false",
         "Lat": "51.716920",
         "Lon": "9.184242",
         "Name": "Brakel Marktplatz",
@@ -921,6 +1012,7 @@
     {
         "ID": 101,
         "URL": "https://www.bad-lippspringe.de/webcam/weblication/wThumbnails/bild2-4cd9aef56fda338g1d2a93272cf57e51@min400.jpg",
+        "Video": "false",
         "Lat": "51.783902",
         "Lon": "8.816919",
         "Name": "Bad Lippspringe Rathausplatz",
@@ -930,6 +1022,7 @@
     {
         "ID": 102,
         "URL": "https://www.geseke.de/transfer/current.jpg",
+        "Video": "false",
         "Lat": "51.6396427",
         "Lon": "8.5096849",
         "Name": "Geeske Stiftskirche",
@@ -939,6 +1032,7 @@
     {
         "ID": 103,
         "URL": "https://www.webcam-bueren.de/aktuell/markt-bueren.jpg",
+        "Video": "false",
         "Lat": "51.552504",
         "Lon": "8.559583",
         "Name": "Markt Büren",
@@ -948,6 +1042,7 @@
     {
         "ID": 104,
         "URL": "https://www.holzminden.de/fileadmin/cam/cam2.jpg",
+        "Video": "false",
         "Lat": "51.828444",
         "Lon": "9.446849",
         "Name": "Holzminden Markt",
@@ -957,6 +1052,7 @@
      {
         "ID": 105,
         "URL": "https://www.detmold.de/fileadmin/user_upload/startseite/Politik_und_Rathaus/Online-Dienste/Webcams/rathaus/marktplatz.jpg",
+        "Video": "false",
         "Lat": "51.935092",
         "Lon": "8.879452",
         "Name": "Detmold Markt",
@@ -966,6 +1062,7 @@
      {
         "ID": 106,
         "URL": "https://www.jever-aktiv.de/files/images/webcam/snapshot.jpg",
+        "Video": "false",
         "Lat": "53.5737392",
         "Lon": "7.9025184",
         "Name": "Jever Alter Markt",
@@ -975,6 +1072,7 @@
      {
         "ID": 107,
         "URL": "http://www.dangast-erleben.de/webcam/dangast.jpg",
+        "Video": "false",
         "Lat": "53.4495097",
         "Lon": "8.1142938",
         "Name": "Dangast Rennweide Campingplatz",
@@ -984,6 +1082,7 @@
      {
         "ID": 108,
         "URL": "http://baltrumcam.md-systemhaus.de/webcam/markt.jpg",
+        "Video": "false",
         "Lat": "53.7293913",
         "Lon": "7.3699714",
         "Name": "Baltrum Markt",
@@ -993,6 +1092,7 @@
      {
         "ID": 109,
         "URL": "https://webcam.harlinger.de/webcamwtm.jpg",
+        "Video": "false",
         "Lat": "53.5737386",
         "Lon": "7.7803149",
         "Name": "Wittmund Markt",
@@ -1002,6 +1102,7 @@
      {
         "ID": 110,
         "URL": "https://www.dzulko.de/files/images_webcam/webcam1/current.jpg",
+        "Video": "false",
         "Lat": "53.9620094",
         "Lon": "10.8785727",
         "Name": "Travemünde Strand",
@@ -1011,6 +1112,7 @@
      {
         "ID": 111,
         "URL": "https://www.strandidyll.de/bilder/webcams/mast.jpg",
+        "Video": "false",
         "Lat": "54.1395166",
         "Lon": "10.9483135",
         "Name": "Grömitz Strandidyll",
@@ -1020,6 +1122,7 @@
      {
         "ID": 112,
         "URL": "https://www.groemitz.de/webcam/pics/aktuell_webcam.jpg",
+        "Video": "false",
         "Lat": "54.1441848",
         "Lon": "10.9584506",
         "Name": "Grömitz Promenade",
@@ -1029,6 +1132,7 @@
      {
         "ID": 113,
         "URL": "https://olbernhau.de/input/webcams/001/MOBOTIX_Stadtkirche/MOBOTIX_Stadtkirche.jpg",
+        "Video": "false",
         "Lat": "50.6612729",
         "Lon": "13.3330732",
         "Name": "Olbernhau Markt",
@@ -1038,6 +1142,7 @@
      {
         "ID": 114,
         "URL": "https://olbernhau.de/input/webcams/002/MOBOTIX_Saigerhuette/MOBOTIX_Saigerhuette.jpg",
+        "Video": "false",
         "Lat": "50.64922",
         "Lon": "13.3664812",
         "Name": "Olbernhau Saigerhütte",
@@ -1047,6 +1152,7 @@
      {
         "ID": 115,
         "URL": "http://webcam.stadt-geyer.de/wachtturm/wachtturm620.jpg",
+        "Video": "false",
         "Lat": "50.624299",
         "Lon": "12.921386",
         "Name": "Geyer Markt",
@@ -1056,6 +1162,7 @@
      {
         "ID": 116,
         "URL": "https://webcam.extra-radio.de/webcams/cam01/cam01.jpg",
+        "Video": "false",
         "Lat": "50.3176608",
         "Lon": "11.9132267",
         "Name": "Hof Altstadt",
@@ -1065,6 +1172,7 @@
      {
         "ID": 117,
         "URL": "https://www.selb.de/html/webcam2/live.jpg",
+        "Video": "false",
         "Lat": "50.1696708",
         "Lon": "12.1289059",
         "Name": "Selb Markt",
@@ -1074,6 +1182,7 @@
      {
         "ID": 118,
         "URL": "http://stadt-weissenstadt.ftp.procomp.de/project/weissenstadt/camobo.jpg",
+        "Video": "false",
         "Lat": "50.1012387",
         "Lon": "11.8828722",
         "Name": "Weissenstadt Marktplatz",
@@ -1083,6 +1192,7 @@
      {
         "ID": 119,
         "URL": "https://ftp.marktredwitz.de/ftpwebcam/Camobo.jpg",
+        "Video": "false",
         "Lat": "50.0009721",
         "Lon": "12.0846975",
         "Name": "Markredwitz Fußgängerzone",
@@ -1092,6 +1202,7 @@
      {
         "ID": 120,
         "URL": "http://bwjgbg.de/Webcam/marktplatzcam.jpg",
+        "Video": "false",
         "Lat": "50.05265",
         "Lon": "11.7955988",
         "Name": "Bischofsgrün Marktplatz",
@@ -1101,6 +1212,7 @@
      {
         "ID": 121,
         "URL": "http://www.bruchsal.de/bruchsal/webcam/stadtnetz-cam.jpg",
+        "Video": "false",
         "Lat": "49.124",
         "Lon": "8.596",
         "Name": "Bruchsal Marktplatz",
@@ -1110,6 +1222,7 @@
      {
         "ID": 123,
         "URL": "https://www.bad-toelz.de/fileadmin/webcams/kurierrauf/current.jpg",
+        "Video": "false",
         "Lat": "47.7608979",
         "Lon": "11.557700",
         "Name": "Bad Tölz Marienbrunnen",
@@ -1119,6 +1232,7 @@
      {
         "ID": 124,
         "URL": "https://www.bad-toelz.de/fileadmin/webcams/isarbruecke/current.jpg",
+        "Video": "false",
         "Lat": "47.7597492",
         "Lon": "11.5566962",
         "Name": "Bad Tölz Isarbrücke",
@@ -1128,6 +1242,7 @@
      {
         "ID": 125,
         "URL": "https://www.foto-webcam.eu/webcam/fuerstenfeld/current/640.jpg",
+        "Video": "false",
         "Lat": "48.1702511",
         "Lon": "11.2463656",
         "Name": "Fürstenfeldbruck Veranstaltungsforum",
@@ -1137,6 +1252,7 @@
      {
         "ID": 126,
         "URL": "http://www.bayernwebcam.de/bilder/badbayersoien.jpg",
+        "Video": "false",
         "Lat": "47.6886425",
         "Lon": "11.0038248",
         "Name": "Bad Bayersoien",
@@ -1146,6 +1262,7 @@
      {
         "ID": 127,
         "URL": "http://93.241.229.242:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
+        "Video": "false",
         "Lat": "47.8042656",
         "Lon": "12.8545399",
         "Name": "Anger",
@@ -1165,6 +1282,7 @@
      {
         "ID": 129,
         "URL": "http://www.bayernwebcam.de/bilder/kreuth.jpg",
+        "Video": "false",
         "Lat": "47.6446091",
         "Lon": "11.7437703",
         "Name": "Kreuth Warmfreibad",
@@ -1174,6 +1292,7 @@
      {
         "ID": 130,
         "URL": "http://www.bayernwebcam.de/bilder/badrottach.jpg",
+        "Video": "false",
         "Lat": "47.6947075",
         "Lon": "11.7684548",
         "Name": "Rottach-Egern See- und Warmbad",
@@ -1183,6 +1302,7 @@
      {
         "ID": 131,
         "URL": "http://hofe19.ddns3-instar.de/tmpfs/auto.jpg?usr=test&pwd=test",
+        "Video": "false",
         "Lat": "47.7193637",
         "Lon": "11.7249028",
         "Name": "Bad Wiessee",
@@ -1192,6 +1312,7 @@
      {
         "ID": 132,
         "URL": "http://217.86.136.114:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
+        "Video": "false",
         "Lat": "48.241489",
         "Lon": "12.6816685",
         "Name": "Neuötting",
@@ -1201,6 +1322,7 @@
      {
         "ID": 133,
         "URL": "http://camyacht.dyndns.org/record/current.jpg",
+        "Video": "false",
         "Lat": "47.8520576",
         "Lon": "12.3665843",
         "Name": "Prien am Chiemsee Yachthotel",
@@ -1210,6 +1332,7 @@
      {
         "ID": 134,
         "URL": "http://www.bayernwebcam.de/bilder/tann.jpg",
+        "Video": "false",
         "Lat": "48.3147035",
         "Lon": "12.8913274",
         "Name": "Tann",
@@ -1219,6 +1342,7 @@
      {
         "ID": 135,
         "URL": "http://www.bayernwebcam.de/bilder/traunreut3.jpg",
+        "Video": "false",
         "Lat": "47.9622555",
         "Lon": "12.5915258",
         "Name": "Traunreut Stadplatz",
@@ -1228,6 +1352,7 @@
      {
         "ID": 136,
         "URL": "http://www.bayernwebcam.de/bilder/traunreut1.jpg",
+        "Video": "false",
         "Lat": "47.9619648",
         "Lon": "12.5916437",
         "Name": "Traunreut Rathausplatz",
@@ -1237,6 +1362,7 @@
      {
         "ID": 137,
         "URL": "http://mail2.tuessling.de:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
+        "Video": "false",
         "Lat": "48.2124029",
         "Lon": "12.6000408",
         "Name": "Tüßling Marktplatz",
