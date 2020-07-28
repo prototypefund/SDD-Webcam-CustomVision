@@ -30,7 +30,6 @@ class PeopleCounter:
            'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.47 Safari/537.36'
            }
         ) 
-        req.packages.urllib3.util.ssl_.DEFAULT_CIPHERS = 'DH+AESGCM:ECDH+AES256:DH+AES256:ECDH+AES128:DH+AES:ECDH+HIGH:DH+HIGH:ECDH+3DES:DH+3DES:RSA+AESGCM:RSA+AES:RSA+HIGH:RSA+3DES:!aNULL:!eNULL:!MD5'
         resp = urllib.request.urlopen(req, timeout=10)
         #resp = urllib.request.urlopen(url, timeout=10)
         self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
