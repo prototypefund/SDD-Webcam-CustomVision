@@ -53,19 +53,22 @@ if __name__ == '__main__':
     pc = PeopleCounter()
     for cam in webcams:
         print(cam)
-        try:
-            cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
-            cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
-            print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
-        except urllib.error.HTTPError as e:
-            print(cam["Name"]+" :"+'The server couldn\'t fulfill the request.')
-            print('Error code: ', e.code)
-        except urllib.error.URLError as e:
-            print(cam["Name"]+" :"+'We failed to reach a server.')
-            print('Reason: ', e.reason)
-        except:
-            pass
-            #print("Unexpected error:", sys.exc_info()[0])
+        if cam['Video'] == 'true':
+           print('Camera is stream')
+        else:
+           try:
+               cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
+               cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
+               print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
+           except urllib.error.HTTPError as e:
+               print(cam["Name"]+" :"+'The server couldn\'t fulfill the request.')
+               print('Error code: ', e.code)
+           except urllib.error.URLError as e:
+               print(cam["Name"]+" :"+'We failed to reach a server.')
+               print('Reason: ', e.reason)
+           except:
+               pass
+               #print("Unexpected error:", sys.exc_info()[0])
 
     client_s3 = boto3.client("s3" )
 
