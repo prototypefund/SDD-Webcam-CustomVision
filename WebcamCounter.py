@@ -51,15 +51,15 @@ class PeopleCounter:
         ret, frame_bgr = cap.read()
         cap.release()
         #unkommentieren falls rgb gewünscht
-        frame_rgb = cv2.cvtColor(frame_bgr, cv2.COLOR_BGR2RGB)
-        image = frame_rgb.flatten()
+        #frame_rgb = cv2.cvtColor(frame_bgr, cv2.COLOR_BGR2RGB)
+        #image = frame_rgb.flatten()
         # Zum überprüfen...
         #cv2.imwrite("C://test.jpg",frame_bgr)
         #self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
         #self.image = cv2.imdecode(self.image, -1)
         filename = "/tmp/"+ str(id) + ".jpg"
-        status = cv2.imwrite(filename, self.image)
+        status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
         directory = r'/tmp'
         pred = predict.main(os.path.join(directory, filename))
