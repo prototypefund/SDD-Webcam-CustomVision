@@ -2,6 +2,7 @@
     {
         "ID": 1,
         "URL": "http://217.24.53.18/record/current.jpg",
+        "Video": "false",
         "Lat": "50.258318",
         "Lon": "10.964798",
         "Name": "Coburg Marktplatz",
@@ -11,6 +12,7 @@
     {
         "ID": 2,
         "URL": "https://www2.annaberg-buchholz.de/webcam/markt.jpg",
+        "Video": "false",
         "Lat": "50.580062",
         "Lon": "13.002370",
         "Name": "Annaberg-Buchholz Markt",
@@ -20,6 +22,7 @@
     {
         "ID": 3,
         "URL": "https://www.konzil-konstanz.de/webcam/hafen.jpg",
+        "Video": "false",
         "Lat": "47.660951",
         "Lon": "9.178256",
         "Name": "Hafen Konstanz",
@@ -29,6 +32,7 @@
     {
         "ID": 4,
         "URL": "https://www.erfurt.de/webcam/fischmarkt.jpg",
+        "Video": "false",
         "Lat": "50.978031",
         "Lon": "11.028691",
         "Name": "Erfurt Fischmarkt",
@@ -38,6 +42,7 @@
     {
         "ID": 5,
         "URL": "https://www.juwelier-roller.de/media/webcam/chemnitz_markt.jpg",
+        "Video": "false",
         "Lat": "50.832587",
         "Lon": "12.919738",
         "Name": "Chemnitz Markt",
@@ -47,6 +52,7 @@
     {
         "ID": 6,
         "URL": "https://www.celle-tourismus.de/webcam/image-640x480.jpg",
+        "Video": "false",
         "Lat": "52.623973",
         "Lon": "10.080568",
         "Name": "Celle Stechbahn",
@@ -56,6 +62,7 @@
     {
         "ID": 7,
         "URL": "https://webcam.heilbronn.de/current.jpg",
+        "Video": "false",
         "Lat": "49.142365",
         "Lon": "9.219044",
         "Name": "Heilbronn Marktplatz",
@@ -65,6 +72,7 @@
     {
         "ID": 8,
         "URL": "https://www.verkehrsinfos.ulm.de/webcam/einstein/current.jpg",
+        "Video": "false",
         "Lat": "48.401848",
         "Lon": "9.992416",
         "Name": "Ulm Olgastrasse",
@@ -74,6 +82,7 @@
     {
         "ID": 9,
         "URL": "https://achern.de/tools/webcam/webcam/achern-rathaus1.jpg",
+        "Video": "false",
         "Lat": "48.625454",
         "Lon": "8.082615",
         "Name": "Achern Rathaus",
@@ -83,6 +92,7 @@
     {
         "ID": 10,
         "URL": "http://www.marktplatzcam.mybiberach.de/MarktplatzCam000M.jpg",
+        "Video": "false",
         "Lat": "48.097822",
         "Lon": "9.787595",
         "Name": "Biberach Marktplatz",
