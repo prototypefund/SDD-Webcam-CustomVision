@@ -47,7 +47,8 @@ class PeopleCounter:
         return peoplecount
     
     def get_video(self, url, id):     
-        cap = cv2.VideoCapture(url)ret, frame_bgr = cap.read()
+        cap = cv2.VideoCapture(url)
+        ret, frame_bgr = cap.read()
         cap.release()
         #unkommentieren falls rgb gewünscht
         frame_rgb = cv2.cvtColor(frame_bgr, cv2.COLOR_BGR2RGB)
