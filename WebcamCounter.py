@@ -80,7 +80,6 @@ if __name__ == '__main__':
         if cam['Video'] == 'true':
            print('Camera is stream')
            try:
-               print('Camera is Image')
                cam['Personenzahl'] =  pc.get_video(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
                print(cam["Name"]+" :"+str(cam["Personenzahl"]))     
