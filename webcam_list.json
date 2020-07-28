@@ -1145,7 +1145,7 @@
      {
         "ID": 128,
         "URL": "http://80.151.86.36:8082/cgi-bin/hi3510/mjpegstream.cgi?-chn=11&-usr=gast&-pwd=gast",
-        "Video": "true" 
+        "Video": "true", 
         "Lat": "48.2265126",
         "Lon": "12.6736169",
         "Name": "Altötting Kapellplatz",
