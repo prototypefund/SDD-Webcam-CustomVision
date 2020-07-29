@@ -17,6 +17,7 @@ import ssl
 import os
 import gc
 import socket
+from PIL import Image
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
