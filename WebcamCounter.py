@@ -71,10 +71,7 @@ class PeopleCounter:
         filename = "/tmp/"+ str(id) + ".jpg"
         status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
-        directory = r'/tmp'
-        #image = PIL.Image.open(os.path.join(directory, filename))        
-        #width, height = image.size
-        #print("Image resolution: ",width, height)
+        directory = r'/tmp'  
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
