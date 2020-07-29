@@ -53,7 +53,7 @@ class PeopleCounter:
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount, pred
+        return peoplecount, pred, w, h
     
     def get_video(self, url, id):     
         cap = cv2.VideoCapture(url)
@@ -84,7 +84,7 @@ class PeopleCounter:
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount, pred
+        return peoplecount, pred,  w, h
 
 
 if __name__ == '__main__':
