@@ -39,10 +39,7 @@ class PeopleCounter:
         filename = "/tmp/"+ str(id) + ".jpg"
         status = cv2.imwrite(filename, self.image)
         print("Image written to file-system : ",status)
-        directory = r'/tmp'
-        #image = PIL.Image.open(os.path.join(directory, filename))        
-        #width, height = image.size
-        #print("Image resolution: ",width, height)
+        directory = r'/tmp'       
         h, w, c = self.image.shape
         print('width:  ', w)
         print('height: ', h)
