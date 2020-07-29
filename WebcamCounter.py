@@ -40,6 +40,9 @@ class PeopleCounter:
         status = cv2.imwrite(filename, self.image)
         print("Image written to file-system : ",status)
         directory = r'/tmp'
+        image = PIL.Image.open(os.path.join(directory, filename))        
+        width, height = image.size
+        print("Image resolution: ",width, height)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
@@ -64,6 +67,9 @@ class PeopleCounter:
         status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
         directory = r'/tmp'
+        image = PIL.Image.open(os.path.join(directory, filename))        
+        width, height = image.size
+        print("Image resolution: ",width, height)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
