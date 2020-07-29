@@ -45,7 +45,7 @@ class PeopleCounter:
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount
+        return peoplecount, pred
     
     def get_video(self, url, id):     
         cap = cv2.VideoCapture(url)
@@ -69,7 +69,7 @@ class PeopleCounter:
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount
+        return peoplecount, pred
 
 
 if __name__ == '__main__':
@@ -81,7 +81,8 @@ if __name__ == '__main__':
         if cam['Video'] == 'true':
            print('Camera is stream')
            try:
-               cam['Personenzahl'] =  pc.get_video(cam['URL'], cam['ID'])
+               cam['Personenzahl'], cam['pred'] = pc.get_video(cam['URL'], cam['ID'])
+               #cam['Personenzahl'] =  pc.get_video(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
                print(cam["Name"]+" :"+str(cam["Personenzahl"]))     
            except:
@@ -90,7 +91,8 @@ if __name__ == '__main__':
         else:
            try:
                print('Camera is Image')
-               cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
+               cam['Personenzahl'], cam['pred'] = pc.get_image(cam['URL'], cam['ID'])
+               #cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
                print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
            except urllib.error.HTTPError as e:
