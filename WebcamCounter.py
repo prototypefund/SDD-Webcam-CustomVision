@@ -39,17 +39,21 @@ class PeopleCounter:
         filename = "/tmp/"+ str(id) + ".jpg"
         status = cv2.imwrite(filename, self.image)
         print("Image written to file-system : ",status)
-        directory = r'/tmp'       
-        res_high, res_width = self.image.shape
-        print('width:  ', res_width)
-        print('height: ', res_high)
+        directory = r'/tmp'
+        #image = PIL.Image.open(os.path.join(directory, filename))        
+        #width, height = image.size
+        #print("Image resolution: ",width, height)
+        h, w, c = self.image.shape
+        print('width:  ', w)
+        print('height: ', h)
+        print('channel:', c)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount, pred, res_high, res_width
+        return peoplecount, pred
     
     def get_video(self, url, id):     
         cap = cv2.VideoCapture(url)
@@ -63,20 +67,24 @@ class PeopleCounter:
         #self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
         #self.image = cv2.imdecode(self.image, -1)
-        res_high, res_width = frame_bgr
-        print('width:  ', res_width)
-        print('height: ', res_high)
+        h, w, c = frame_bgr
+        print('width:  ', w)
+        print('height: ', h)
+        print('channel:', c)
         filename = "/tmp/"+ str(id) + ".jpg"
         status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
-        directory = r'/tmp'  
+        directory = r'/tmp'
+        #image = PIL.Image.open(os.path.join(directory, filename))        
+        #width, height = image.size
+        #print("Image resolution: ",width, height)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount, pred, res_high, res_width
+        return peoplecount, pred
 
 
 if __name__ == '__main__':
@@ -88,8 +96,7 @@ if __name__ == '__main__':
         if cam['Video'] == 'true':
            print('Camera is stream')
            try:
-               cam['Personenzahl'], cam['pred'] = pc.get_video(cam['URL'], cam['ID']) 
-               #cam['Personenzahl'], cam['pred'], cam['res_high'], cam['res_width'] = pc.get_video(cam['URL'], cam['ID'])
+               cam['Personenzahl'], cam['pred'] = pc.get_video(cam['URL'], cam['ID'])
                #cam['Personenzahl'] =  pc.get_video(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
                print(cam["Name"]+" :"+str(cam["Personenzahl"]))     
@@ -100,7 +107,6 @@ if __name__ == '__main__':
            try:
                print('Camera is Image')
                cam['Personenzahl'], cam['pred'] = pc.get_image(cam['URL'], cam['ID'])
-               #cam['Personenzahl'], cam['pred'], cam['res_high'], cam['res_width'] = pc.get_image(cam['URL'], cam['ID'])
                #cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
                print(cam["Name"]+" :"+str(cam["Personenzahl"]))        
