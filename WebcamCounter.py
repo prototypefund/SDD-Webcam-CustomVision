@@ -43,6 +43,10 @@ class PeopleCounter:
         #image = PIL.Image.open(os.path.join(directory, filename))        
         #width, height = image.size
         #print("Image resolution: ",width, height)
+        h, w, c = self.image.shape
+        print('width:  ', w)
+        print('height: ', h)
+        print('channel:', c)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
@@ -63,6 +67,10 @@ class PeopleCounter:
         #self.image = np.asarray(bytearray(resp.read()), dtype="uint8")
         #if self.img is not None:
         #self.image = cv2.imdecode(self.image, -1)
+        h, w, c = frame_bgr
+        print('width:  ', w)
+        print('height: ', h)
+        print('channel:', c)
         filename = "/tmp/"+ str(id) + ".jpg"
         status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
