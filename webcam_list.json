@@ -1398,5 +1398,25 @@
         "Name": "Heide Markt",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 140,
+        "URL": "https://www.bicos.de/webcam/webcam1.jpg",
+        "Video": "false",
+        "Lat": "52.0233659",
+        "Lon": "8.5314551",
+        "Name": "Bielefeld Jahnplatz-West",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 141,
+        "URL": "https://www.bicos.de/webcam/webcam4.jpg",
+        "Video": "false",
+        "Lat": "52.0233659",
+        "Lon": "8.5314551",
+        "Name": "Bielefeld Jahnplatz-Nord",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
