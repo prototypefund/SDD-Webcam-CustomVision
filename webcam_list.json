@@ -1388,5 +1388,15 @@
         "Name": "Heide Südermarkt",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 139
+        "URL": "http://ramelow-heide-kabel.itsg-ip.net:8081/jpg/image.jpg?resolution=1024x576&compression=30&rn=0.27102984588434886",
+        "Video": "false",
+        "Lat": "54.1945803",
+        "Lon": "9.0936328",
+        "Name": "Heide Südermarkt",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
