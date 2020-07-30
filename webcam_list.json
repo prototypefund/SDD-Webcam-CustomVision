@@ -1418,5 +1418,15 @@
         "Name": "Bielefeld Jahnplatz-Nord",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 142,
+        "URL": "https://www.memmingen.de/webcam/current_640.jpg",
+        "Video": "false",
+        "Lat": "47.985929",
+        "Lon": "10.179546",
+        "Name": "Memmingen Rathausplatz Altstadt",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
