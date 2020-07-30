@@ -1468,5 +1468,15 @@
         "Name": "Wernigerode Brocken Plateau",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 147,
+        "URL": "https://db0smg.de/cgi-bin/liesel3.jpg",
+        "Video": "false",
+        "Lat": "51.532562",
+        "Lon": "9.935471",
+        "Name": "Göttingen Historisches Rathaus",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
