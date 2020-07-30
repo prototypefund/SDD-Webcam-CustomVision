@@ -1448,5 +1448,15 @@
         "Name": "Tübingen Marktplatz",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 145,
+        "URL": "https://kaupisch-it.de/cam2/Markt01.jpg",
+        "Video": "false",
+        "Lat": "51.629873",
+        "Lon": "13.708577",
+        "Name": "Finsterwalde Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
