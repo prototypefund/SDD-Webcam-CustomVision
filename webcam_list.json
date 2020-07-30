@@ -1498,5 +1498,15 @@
         "Name": "Volkach Rathausplatz",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 150,
+        "URL": "http://ftp.rodgau.de/webcam_rathaus.jpg",
+        "Video": "false",
+        "Lat": "50.025774",
+        "Lon": "8.883991",
+        "Name": "Rodgau: Platz vor dem Rathaus Jügesheim",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
