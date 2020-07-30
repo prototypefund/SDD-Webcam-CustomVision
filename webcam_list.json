@@ -1441,11 +1441,11 @@
      },
      {
         "ID": 144,
-        "URL": "https://www.bad-saeckingen.de/webcam/current_640px.jpg",
+        "URL": "https://www.tuebingen.de/camera/webcam_marktplatz.jpg",
         "Video": "false",
-        "Lat": "47.549652",
-        "Lon": "7.949982",
-        "Name": "Bad Säckingen Altstadt",
+        "Lat": "48.520344",
+        "Lon": "9.053346",
+        "Name": "Tübingen Marktplatz",
         "Personenzahl": null,
         "Stand": null
      }
