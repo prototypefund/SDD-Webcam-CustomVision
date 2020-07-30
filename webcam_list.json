@@ -1508,5 +1508,16 @@
         "Name": "Rodgau: Platz vor dem Rathaus Jügesheim",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 151,
+        "URL": "https://www.foto-webcam.eu/webcam/zugspitze/current/720.jpg",
+        "Link" "https://www.foto-webcam.eu/webcam/zugspitze/",
+        "Video": "false",
+        "Lat": "47.42083",
+        "Lon": "10.98473",
+        "Name": "Rodgau: Platz vor dem Rathaus Jügesheim",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
