@@ -1488,5 +1488,15 @@
         "Name": "Korbach Fußgängerzone Korbach - Prof.-Bier-Straße",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 149,
+        "URL": "https://www.volkach.de/webcam/video_PE.jpg",
+        "Video": "false",
+        "Lat": "49.865729",
+        "Lon": "10.226008",
+        "Name": "Volkach Rathausplatz",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
