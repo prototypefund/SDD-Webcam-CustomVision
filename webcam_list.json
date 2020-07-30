@@ -1458,5 +1458,15 @@
         "Name": "Finsterwalde Marktplatz",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 146,
+        "URL": "https://www.harztourist.de/extern/cam/aktuell/brocken01.jpg",
+        "Video": "false",
+        "Lat": "51.799805",
+        "Lon": "10.61554",
+        "Name": "Wernigerode Brocken Plateau",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
