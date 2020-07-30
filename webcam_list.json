@@ -1478,5 +1478,15 @@
         "Name": "Göttingen Historisches Rathaus",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 148,
+        "URL": "http://www.webcam-korbach.de/webcam1.jpg",
+        "Video": "false",
+        "Lat": "51.274615",
+        "Lon": "8.87153",
+        "Name": "Korbach Fußgängerzone Korbach - Prof.-Bier-Straße",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
