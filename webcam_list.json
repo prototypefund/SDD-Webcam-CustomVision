@@ -1749,5 +1749,275 @@
         "Name": "Kuhlungsborn Strand",
         "Personenzahl": null,
         "Stand": null
-     }
+     },
+     {
+        "ID": 175,
+        "URL": "http:///www.strandidyll.de/webcam/strandidyll/seebruecke/aktuell.jpg",
+        "Video": "false",
+        "Lat": "54.140417",
+        "Lon": "10.952511",
+        "Name": "Groemitz Strand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 176,
+        "URL": "https://insinceu.hs.llnwd.net/r1/147blu/hdream/ahlbeck/Panorama.mp4",
+        "Video": "true",
+        "Lat": "53.943167",
+        "Lon": "14.187856",
+        "Name": "Ahlbeck Seebrücke",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 177,
+        "URL": "https://www.io-warnemuende.de/tl_files/xWebcam/iow-webcam730.jpg",
+        "Video": "false",
+        "Lat": "54.180169",
+        "Lon": "12.081227",
+        "Name": "Warnemünde Strand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 178,
+        "URL": "https://www.alfeld.de/fileadmin/webcam/vorschau2.php?img=cam.jpg",
+        "Video": "false",
+        "Lat": "51.987411",
+        "Lon": "9.825087",
+        "Name": "Alfeld(Leine) Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 178,
+        "URL": "https://www.reutlingen.de/tools/showImage.php5",
+        "Video": "false",
+        "Lat": "48.491342",
+        "Lon": "9.211014",
+        "Name": "Reutlingen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 179,
+        "URL": "https://www.reutlingen.de/webcam/stadthalle/showImage.php5",
+        "Video": "false",
+        "Lat": "48.491445",
+        "Lon": "9.206456",
+        "Name": "Reutlingen Stadthalle",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 180,
+        "URL": "https://www.nagold.de/webcam/livebild.jpg",
+        "Video": "false",
+        "Lat": "48.551338",
+        "Lon": "8.722721",
+        "Name": "Nagold Markt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 181,
+        "URL": "https://www.webcam-unna.de/video.jpg",
+        "Video": "false",
+        "Lat": "51.534176",
+        "Lon": "7.689972",
+        "Name": "Unna Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 182,
+        "URL": "https://cam.kitzingen.info/cam01.jpg",
+        "Video": "false",
+        "Lat": "49.738945",
+        "Lon": "10.161731",
+        "Name": "Kitzingen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 183,
+        "URL": "https://cam.kitzingen.info/cam02.jpg",
+        "Video": "false",
+        "Lat": "49.7403456",
+        "Lon": "10.1630422",
+        "Name": "Kitzingen Mainbrücke",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 184,
+        "URL": "https://www.webcam-aschaffenburg.de/Webcams/Aschaffenburg-Schloss-Webcam.jpg",
+        "Video": "false",
+        "Lat": "49.975879",
+        "Lon": "9.144337",
+        "Name": "Aschaffenburg Schloss",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 185,
+        "URL": "https://www.steinhude-am-meer.de/webcams/webcam2_promenade//thumb/promenade_2020_0731_202423_01_600.jpg",
+        "Video": "false",
+        "Lat": "52.454663",
+        "Lon": "9.350653",
+        "Name": "Steinhude Uferpromenade",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 186,
+        "URL": "https://www.steinhude-am-meer.de/webcams/webcam-weinscheune//thumb/P20073121344610_600.jpg",
+        "Video": "false",
+        "Lat": "52.4564356",
+        "Lon": "9.3588943",
+        "Name": "Steinhude Weinscheune",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 187,
+        "URL": "https://87.139.63.28/record/current.jpg",
+        "Video": "false",
+        "Lat": "54.303281",
+        "Lon": "9.667277",
+        "Name": "Rendsburg Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 188,
+        "URL": "https://www.schwaebisch-gmuend.de/files/upload/webcam/marktplatz1/gmuendcam.jpg",
+        "Video": "false",
+        "Lat": "48.799521",
+        "Lon": "9.798217",
+        "Name": "Schwäbisch Gmünd Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 189,
+        "URL": "https://www.bergischgladbach.de/img/upload/webcam/webcam-gl.jpg",
+        "Video": "false",
+        "Lat": "50.991468",
+        "Lon": "7.129751",
+        "Name": "Bergisch Gladbach Laurentiuskirche",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 190,
+        "URL": "https://www.bergischgladbach.de/img/upload/webcam/webcam-gl.jpg",
+        "Video": "false",
+        "Lat": "50.991468",
+        "Lon": "7.129751",
+        "Name": "Bergisch Gladbach Laurentiuskirche",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 191,
+        "URL": "https://www.lemgo.de/fileadmin/image/webcam/aktuell.jpg",
+        "Video": "false",
+        "Lat": "52.027802",
+        "Lon": "8.901243",
+        "Name": "Lemgo Markt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 192,
+        "URL": "https://ewerk.tv/lvb/LVBHBF/lvbhbf.jpg",
+        "Video": "false",
+        "Lat": "51.344231",
+        "Lon": "12.379789",
+        "Name": "Leipzig Hauptbahnhof",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 193,
+        "URL": "https://webcam.leuchtengalerie.com/webcam/leuchtengalerie.jpg",
+        "Video": "false",
+        "Lat": "48.521055",
+        "Lon": "9.053402",
+        "Name": "Tübingen Marktgasse",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 194,
+        "URL": "https://www.mindelheim.de/webcam/image.jpg",
+        "Video": "false",
+        "Lat": "48.046565",
+        "Lon": "10.488607",
+        "Name": "Mindelheim Marienplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 195,
+        "URL": "https://webcam.bitel.info/webcamgt01",
+        "Video": "false",
+        "Lat": "51.902646",
+        "Lon": "8.395722",
+        "Name": "Gütersloh Berliner Platz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 196,
+        "URL": "https://www.herborn.de/de/img/webcam/webcam-herborn.jpg",
+        "Video": "false",
+        "Lat": "50.683129",
+        "Lon": "8.303272",
+        "Name": "Herborn",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 197,
+        "URL": "https://www.oecking.net/webcam3/current.jpg",
+        "Video": "false",
+        "Lat": "51.531379",
+        "Lon": "7.414863",
+        "Name": "Dortmund Marktplatz Huckarde",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 198,
+        "URL": "https://www.chamaeleon-hosting.de/svgifhorn/current.jpg",
+        "Video": "false",
+        "Lat": "52.488406",
+        "Lon": "10.545119",
+        "Name": "Gifhorn Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 199,
+        "URL": "https://www.virtuell.norden.de/Webcam/marktplatz.jpg",
+        "Video": "false",
+        "Lat": "53.595529",
+        "Lon": "7.206196",
+        "Name": "Norden Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 200,
+        "URL": "https://web1.karlsruhe.de/Gifs/webcam_marktplatz.jpg",
+        "Video": "false",
+        "Lat": "49.008101",
+        "Lon": "8.403618",
+        "Name": "Karlsruhe Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }
 ]
