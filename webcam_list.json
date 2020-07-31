@@ -1599,5 +1599,85 @@
         "Name": "Esens",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 160,
+        "URL": "http://www.usiepert.de/images/webcam/archiv/webcam0001.jpg",
+        "Video": "false",
+        "Lat": "51.905278",
+        "Lon": "10.427876",
+        "Name": "Goslar Marktkirche",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 160,
+        "URL": "https://pics.hohemark-apotheke.de/download/marktpatz.jpg",
+        "Video": "false",
+        "Lat": "50.20296",
+        "Lon": "8.577071",
+        "Name": "Oberursel Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 161,
+        "URL": "http://www2.seesen.de/webcam/bghaus.jpg",
+        "Video": "false",
+        "Lat": "51.889286",
+        "Lon": "10.176129",
+        "Name": "Seesen Bürgerhau",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 162,
+        "URL": "http://www2.seesen.de/webcam/bghaus.jpg",
+        "Video": "false",
+        "Lat": "51.889286",
+        "Lon": "10.176129",
+        "Name": "Seesen Bürgerhau",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 163,
+        "URL": "https://www.ostseebad-wustrow.de/var/ostseebad-wustrow/storage/webcams/images/kamera3.jpg",
+        "Video": "false",
+        "Lat": "54.351567",
+        "Lon": "12.385926",
+        "Name": "Wustrow Seebrücke",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 164,
+        "URL": "https://www.ostseebad-wustrow.de/var/ostseebad-wustrow/storage/webcams/images/kamera4.jpg",
+        "Video": "false",
+        "Lat": "54.351567",
+        "Lon": "12.385926",
+        "Name": "Wustrow Seebrücke",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 165,
+        "URL": "https://www.ostseebad-wustrow.de/var/ostseebad-wustrow/storage/webcams/images/kamera5.jpg",
+        "Video": "false",
+        "Lat": "54.351567",
+        "Lon": "12.385926",
+        "Name": "Wustrow Seebrücke",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 166,
+        "URL": "https://www.ostseebad-wustrow.de/var/ostseebad-wustrow/storage/webcams/images/kamera1.jpg",
+        "Video": "false",
+        "Lat": "54.34416",
+        "Lon": "12.3957543",
+        "Name": "Wustrow Hafen",
+        "Personenzahl": null,
+        "Stand": null
      }
 ] 
