@@ -1679,5 +1679,25 @@
         "Name": "Wustrow Hafen",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 167,
+        "URL": "https://www.prerow.de/prerowbilder/kurbetrieb/webcam-prerow.jpg",
+        "Video": "false",
+        "Lat": "54.453025",
+        "Lon": "12.569561",
+        "Name": "Prerow Seebrücke",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 168,
+        "URL": "https://www.prerow.de/prerowbilder/strandzoom.jpg",
+        "Video": "false",
+        "Lat": "54.453025",
+        "Lon": "12.569561",
+        "Name": "Prerow Strand Seebrücke Richtung Westen",
+        "Personenzahl": null,
+        "Stand": null
      }
 ] 
