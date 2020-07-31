@@ -1519,5 +1519,15 @@
         "Name": "Grainau Wetterwarte Zugspitze",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 152,
+        "URL": "https://webcam.uni-hildesheim.de/webcam/snapshot/fullsize.jpg",
+        "Video": "false",
+        "Lat": "52.133857",
+        "Lon": "9.974771",
+        "Name": "Hildesheim Campus der Universität",
+        "Personenzahl": null,
+        "Stand": null
      }
 ]
