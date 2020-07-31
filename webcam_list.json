@@ -1529,5 +1529,16 @@
         "Name": "Hildesheim Campus der Universität",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 153,
+        "URL": "http://www.sparkassen-cam.de/_webcam/ratzeburg/images/current.jpg",
+        "Video": "false",
+        "Lat": "53.699597",
+        "Lon": "10.774809",
+        "Name": "Ratzeburg",
+        "Personenzahl": null,
+        "Stand": null
      }
-]
+    
+]   
