@@ -1549,7 +1549,6 @@
         "Name": "Hersbruck Oberer Markt",
         "Personenzahl": null,
         "Stand": null
-        "Video": "false",
      },
      {
         "ID": 155,
@@ -1560,7 +1559,6 @@
         "Name": "Gerolzhofen Marktplatz",
         "Personenzahl": null,
         "Stand": null
-        "Video": "false",
      },
      {
         "ID": 156,
@@ -1571,7 +1569,6 @@
         "Name": "Gerolzhofen Marktplatz",
         "Personenzahl": null,
         "Stand": null
-        "Video": "false",
      }, 
      {
         "ID": 157,
@@ -1582,7 +1579,6 @@
         "Name": "Waren Stadthafen",
         "Personenzahl": null,
         "Stand": null
-        "Video": "false",
      },
      {
         "ID": 158,
@@ -1593,7 +1589,6 @@
         "Name": "Ottobeuren Marktplatz",
         "Personenzahl": null,
         "Stand": null
-        "Video": "false",
      },
      {
         "ID": 159,
@@ -1604,6 +1599,5 @@
         "Name": "Esens",
         "Personenzahl": null,
         "Stand": null
-        "Video": "false",
      }
 ] 
