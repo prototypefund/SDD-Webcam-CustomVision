@@ -1549,4 +1549,61 @@
         "Name": "Hersbruck Oberer Markt",
         "Personenzahl": null,
         "Stand": null
+        "Video": "false",
+     },
+     {
+        "ID": 155,
+        "URL": "https://webcam.gerolzhofen.de/webcam1_gr.jpg",
+        "Video": "false",
+        "Lat": "49.900937",
+        "Lon": "10.349615",
+        "Name": "Gerolzhofen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+        "Video": "false",
+     },
+     {
+        "ID": 156,
+        "URL": "https://webcam.gerolzhofen.de/webcam2_gr.jpg",
+        "Video": "false",
+        "Lat": "49.900937",
+        "Lon": "10.349615",
+        "Name": "Gerolzhofen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+        "Video": "false",
+     }, 
+     {
+        "ID": 157,
+        "URL": "https://webcam.bootsurlaub.de/mueritz.jpg",
+        "Video": "false",
+        "Lat": "53.512245",
+        "Lon": "12.689037",
+        "Name": "Waren Stadthafen",
+        "Personenzahl": null,
+        "Stand": null
+        "Video": "false",
+     },
+     {
+        "ID": 158,
+        "URL": "http://217.7.233.140/record/current.jpg",
+        "Video": "false",
+        "Lat": "47.941331",
+        "Lon": "10.299983",
+        "Name": "Ottobeuren Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+        "Video": "false",
+     },
+     {
+        "ID": 159,
+        "URL": "https://www.esens-online.de/webcam/image.jpg",
+        "Video": "false",
+        "Lat": "53.646851",
+        "Lon": "7.610221",
+        "Name": "Esens",
+        "Personenzahl": null,
+        "Stand": null
+        "Video": "false",
      }
+] 
