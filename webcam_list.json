@@ -1699,5 +1699,55 @@
         "Name": "Prerow Strand Seebrücke Richtung Westen",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 169,
+        "URL": "https://www.morada.de/livebilder/livebildpos1_640.jpg",
+        "Video": "false",
+        "Lat": "54.154129",
+        "Lon": "11.760457",
+        "Name": "Kuhlungsborn Strand",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 170,
+        "URL": "https://www.morada.de/livebilder/livebildpos2_640.jpg",
+        "Video": "false",
+        "Lat": "54.154129",
+        "Lon": "11.760457",
+        "Name": "Kuhlungsborn Strand",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 172,
+        "URL": "https://www.morada.de/livebilder/livebildpos3_640.jpg",
+        "Video": "false",
+        "Lat": "54.154129",
+        "Lon": "11.760457",
+        "Name": "Kuhlungsborn Strand",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 173,
+        "URL": "https://www.morada.de/livebilder/livebildpos4_640.jpg",
+        "Video": "false",
+        "Lat": "54.154129",
+        "Lon": "11.760457",
+        "Name": "Kuhlungsborn Strand",
+        "Personenzahl": null,
+        "Stand": null
+     },
+     {
+        "ID": 174,
+        "URL": "https://www.morada.de/livebilder/livebildpos5_640.jpg",
+        "Video": "false",
+        "Lat": "54.154129",
+        "Lon": "11.760457",
+        "Name": "Kuhlungsborn Strand",
+        "Personenzahl": null,
+        "Stand": null
      }
-] 
+]
