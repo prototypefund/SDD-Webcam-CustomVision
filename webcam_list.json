@@ -1539,6 +1539,14 @@
         "Name": "Ratzeburg",
         "Personenzahl": null,
         "Stand": null
+     },
+     {
+        "ID": 154,
+        "URL": "http://hersbruck.de/wp-content/uploads/livecam/rathaus/rathaus.jpg",
+        "Video": "false",
+        "Lat": "49.508756",
+        "Lon": "11.428925",
+        "Name": "Hersbruck Oberer Markt",
+        "Personenzahl": null,
+        "Stand": null
      }
-    
-]   
