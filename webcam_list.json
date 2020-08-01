@@ -2019,5 +2019,415 @@
         "Name": "Karlsruhe Marktplatz",
         "Personenzahl": null,
         "Stand": null
-      }
-]
+      },
+      {
+        "ID": 201,
+        "URL": "https://webcam.lauterbach-hessen.de/cam_01.jpg",
+        "Video": "false",
+        "Lat": "50.636901",
+        "Lon": "9.396846",
+        "Name": "Lauterbach Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 202,
+        "URL": "https://www.besser-bad-harzburg.de/BBHCAM01/Aktuell.jpg",
+        "Video": "false",
+        "Lat": "51.880286",
+        "Lon": "10.559717",
+        "Name": "Bad Harzburg Jungbrunnen",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 203,
+        "URL": "https://www.punktapotheke.de/webcam/webcam.jpg",
+        "Video": "false",
+        "Lat": "52.20027",
+        "Lon": "8.589227",
+        "Name": "Tönnies Wellensiek-Platz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 204,
+        "URL": "https://www2.braunschweig.de/webcam/burgplatz1.jpg",
+        "Video": "false",
+        "Lat": "52.264607",
+        "Lon": "10.524012",
+        "Name": "Braunschweig Burgplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 205,
+        "URL": "https://www2.braunschweig.de/webcam/turm1.jpg",
+        "Video": "false",
+        "Lat": "52.264990",
+        "Lon": "10.524652",
+        "Name": "Braunschweig Vor der Burg",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 206,
+        "URL": "https://www.norderney-strandnah.de/MOBOTIX/test.jpg",
+        "Video": "false",
+        "Lat": "53.712577",
+        "Lon": "7.150485",
+        "Name": "Norderney Nordstrand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 207,
+        "URL": "https://www.villingen-schwenningen.de/cam/rietstr.jpg",
+        "Video": "false",
+        "Lat": "48.059743",
+        "Lon": "8.456297",
+        "Name": "Villingen Zentrum",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 208,
+        "URL": "https://www.villingen-schwenningen.de/cam/muslen.jpg",
+        "Video": "false",
+        "Lat": "48.063708",
+        "Lon": "8.536988",
+        "Name": "Schwenningen Muslenplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 209,
+        "URL": "https://www.swneumarkt.de/webcam/cam/snap_c1.jpg",
+        "Video": "false",
+        "Lat": "49.280478",
+        "Lon": "11.466486",
+        "Name": "Freibad Neumarkt Oberpflaz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 210,
+        "URL": "https://sylter-freizeit-team.de/php/webcam.php",
+        "Video": "false",
+        "Lat": "54.754231",
+        "Lon": "8.292704",
+        "Name": "Sylt Hornum Strand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 211,
+        "URL": "https://www.deutsches-museum.de/fileadmin/Content/data/webcam/mushof_f.jpg",
+        "Video": "false",
+        "Lat": "48.130118",
+        "Lon": "11.584256",
+        "Name": "München Deutsches Museum",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 212,
+        "URL": "https://images-webcams.windy.com/45/1243602445/current/original/1243602445.jpg",
+        "Video": "false",
+        "Lat": "53.512459",
+        "Lon": "8.139088",
+        "Name": "Wilhelmshaven Südstrandpromenade",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 213,
+        "URL": "https://adx-cache.de/webcam/webcam.jpg",
+        "Video": "false",
+        "Lat": "52.187319",
+        "Lon": "9.081144",
+        "Name": "Rinteln Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 214,
+        "URL": "https://www.landshut.de/typo3temp/pics/aa40b3ee13.jpg",
+        "Video": "false",
+        "Lat": "48.536983",
+        "Lon": "12.152113",
+        "Name": "Landshut Altstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 215,
+        "URL": "https://www.landshut.de/uploads/pics/lalive_1.jpg",
+        "Video": "false",
+        "Lat": "48.53613",
+        "Lon": "12.151576",
+        "Name": "Landshut Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 216,
+        "URL": "https://www.movie-star.info/sonna-alp/sonna-alp-gr.jpg",
+        "Video": "false",
+        "Lat": "47.32777",
+        "Lon": "10.154521",
+        "Name": "Kleinwalsertal Sonnaalp",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 217,
+        "URL": "https://stadthagen.active-city.net/tropicana/webcam/sthcam1.jpg",
+        "Video": "false",
+        "Lat": "52.323727",
+        "Lon": "9.204531",
+        "Name": "Stadthagen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 218,
+        "URL": "https://schapers.dvrdns.org/mjpg/video.mjpg?camera=1&timestamp=1504685552647",
+        "Video": "true",
+        "Lat": "54.680676",
+        "Lon": "8.541344",
+        "Name": "Schapers Strand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 218,
+        "URL": "https://www.nieblum-online.de/cam/cam1g.jpg",
+        "Video": "false",
+        "Lat": "54.680969",
+        "Lon": "8.492592",
+        "Name": "Nieblum Strand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 219,
+        "URL": "https://www.haus-jensen.de/fileadmin/daten/hausjensen/webcam/current.jpg",
+        "Video": "false",
+        "Lat": "54.680612",
+        "Lon": "8.537067",
+        "Name": "Wyk Südstrand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 220,
+        "URL": "https://webcam.oldsum-auf-foehr.de/oldsum_1.jpg",
+        "Video": "false",
+        "Lat": "54.733120",
+        "Lon": "8.449398",
+        "Name": "Oldsum Ortskern",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 221,
+        "URL": "https://www.utersum.info/webcam1.jpg",
+        "Video": "false",
+        "Lat": "54.710378",
+        "Lon": "8.395216",
+        "Name": "Utersum Strand",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 222,
+        "URL": "https://www.osnabrueck.de/webcam/marktplatz/image-marktplatz.jpg",
+        "Video": "false",
+        "Lat": "52.277447",
+        "Lon": "8.041188",
+        "Name": "Osnabrück Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 223,
+        "URL": "https://webcam.pfarrkirchen.de/livecam.jpg",
+        "Video": "false",
+        "Lat": "48.432397",
+        "Lon": "12.94038",
+        "Name": "Pfarrkirchen Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 224,
+        "URL": "https://webcam.fwv-vib.de/stadtplatz_99.jpg",
+        "Video": "false",
+        "Lat": "48.448593",
+        "Lon": "12.355692",
+        "Name": "Vilsbiburg Zentrum",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 225,
+        "URL": "https://webcam.therme1.de/images/Therme1.jpg",
+        "Video": "false",
+        "Lat": "48.354524",
+        "Lon": "13.312801",
+        "Name": "Bad Füssing Therme Eins",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 226,
+        "URL": "https://gutscheinshop.europatherme.de/files/webcam/m1200000.jpg",
+        "Video": "false",
+        "Lat": "48.351683",
+        "Lon": "13.318692",
+        "Name": "Bad Füssing Europatherme",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 227,
+        "URL": "https://www.johannesbad-medizin.com/cam1/100apano.jpg",
+        "Video": "false",
+        "Lat": "48.348958",
+        "Lon": "13.328926",
+        "Name": "Bad Füssing Johannesbad",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 228,
+        "URL": "https://webcam.bad-neustadt-erleben.de/neslive.jpg",
+        "Video": "false",
+        "Lat": "50.322786",
+        "Lon": "10.215921",
+        "Name": "Bad Neustadt Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 229,
+        "URL": "https://www.stadtplatzkamera.de/traunstein/csl-connect.jpg",
+        "Video": "false",
+        "Lat": "47.869682",
+        "Lon": "12.64802",
+        "Name": "Traunstein Stadtplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 230,
+        "URL": "https://www.spreewaldwetter.de/kamera.jpg",
+        "Video": "false",
+        "Lat": "51.86749",
+        "Lon": "13.972966",
+        "Name": "Lübbenau Spreewaldhafen",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 231,
+        "URL": "https://www.freising.de/_webcam/images/_pic_wc01n.jpg",
+        "Video": "false",
+        "Lat": "48.40093",
+        "Lon": "11.743913",
+        "Name": "Freising Marienplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 232,
+        "URL": "https://webcam.online-service.de/webcams/kf-rathaus/current.jpg",
+        "Video": "false",
+        "Lat": "47.879891",
+        "Lon": "10.622771",
+        "Name": "Kaufbeuren Rathaus",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 233,
+        "URL": "https://martin-bochum.de/zeig.phtm?was=picture&bild=0&dnflag=D&rand=1596299903",
+        "Video": "false",
+        "Lat": "51.476485",
+        "Lon": "7.217519",
+        "Name": "Bochum BermudEck",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 234,
+        "URL": "https://webcam.lutherstadt-eisleben.de/markt_waage.jpg",
+        "Video": "false",
+        "Lat": "51.528317",
+        "Lon": "11.546448",
+        "Name": "Lutherstadt Eisleben Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 235,
+        "URL": "https://webcam2.dietfurt.de/ost.jpg",
+        "Video": "false",
+        "Lat": "49.035318",
+        "Lon": "11.587223",
+        "Name": "Dietfurt Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 236,
+        "URL": "https://webcam.dietfurt.de/marktplatz.jpg",
+        "Video": "false",
+        "Lat": "49.035236",
+        "Lon": "11.587502",
+        "Name": "Dietfurt Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 237,
+        "URL": "https://webcam.zirndorf.de/marktplatz/gross.jpg",
+        "Video": "false",
+        "Lat": "49.441779",
+        "Lon": "10.957519",
+        "Name": "Zirndorf Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 238,
+        "URL": "https://webcam.zirndorf.de/bibertbad-2/gross.jpg",
+        "Video": "false",
+        "Lat": "49.435941",
+        "Lon": "10.957651",
+        "Name": "Zirndorf Bibertbad",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 239,
+        "URL": "https://www.huefingen.de/webcam/webcam.jpg",
+        "Video": "false",
+        "Lat": "47.923178",
+        "Lon": "8.489685",
+        "Name": "Hüfingen Rathausplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 240,
+        "URL": "https://goch.de/webcam/current.jpg",
+        "Video": "false",
+        "Lat": "51.675802",
+        "Lon": "6.155326",
+        "Name": "Goch Zentrum",
+        "Personenzahl": null,
+        "Stand": null
+      }   
+]  
