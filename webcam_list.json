@@ -2169,7 +2169,7 @@
         "Name": "Landshut Innenstadt",
         "Personenzahl": null,
         "Stand": null
-      },      
+      },    
       {
         "ID": 217,
         "URL": "https://stadthagen.active-city.net/tropicana/webcam/sthcam1.jpg",
@@ -2419,5 +2419,255 @@
         "Name": "Goch Zentrum",
         "Personenzahl": null,
         "Stand": null
+      },  
+      {
+        "ID": 241,
+        "URL": "https://www.hilchenbach.de/webcam/webcam/markt.jpg",
+        "Video": "false",
+        "Lat": "50.996668",
+        "Lon": "8.109149",
+        "Name": "Hilchenbach Markt",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 242,
+        "URL": "https://www.stadt-blumberg.de/webcam/webcamPreview.php",
+        "Video": "false",
+        "Lat": "47.837826",
+        "Lon": "8.5567",
+        "Name": "Blumberg Bahnhof",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 243,
+        "URL": "https://www.stadtwerke-guenzburg.de/cam/marktplatz.jpg",
+        "Video": "false",
+        "Lat": "48.454784",
+        "Lon": "10.274778",
+        "Name": "Guenzburg Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 244,
+        "URL": "https://gdbmarkt.axiscam.net:9000/mjpg/video.mjpg",
+        "Video": "true",
+        "Lat": "53.701448",
+        "Lon": "11.118414",
+        "Name": "Gadebusch Markt",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 244,
+        "URL": "https://213.182.159.137/webcam/Marktplatz/cam01.jpg",
+        "Video": "false",
+        "Lat": "47.98463",
+        "Lon": "8.818457",
+        "Name": "Tuttlingen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 245,
+        "URL": "https://www.kamenz.de/webcam/webcam.jpg",
+        "Video": "false",
+        "Lat": "51.269809",
+        "Lon": "14.095459",
+        "Name": "Kamenz Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 246,
+        "URL": "https://www.altenburg.eu//WebCam1/axis-cgi/mjpg/video.cgi?resolution=640x480",
+        "Video": "true",
+        "Lat": "50.985005",
+        "Lon": "12.433197",
+        "Name": "Altenburg Markt",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 247,
+        "URL": "https://www.voerde.de/stadt-voerde/webcam/marktvoerde_00001.jpg",
+        "Video": "false",
+        "Lat": "51.597961",
+        "Lon": "6.681479",
+        "Name": "Voerde Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 248,
+        "URL": "https://www.bayernwebcam.de/bilder/tann.jpg",
+        "Video": "false",
+        "Lat": "48.313918",
+        "Lon": "12.88722",
+        "Name": "Tann Zentrum",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 249,
+        "URL": "https://www.bayernwebcam.de/bilder/traunreut1.jpg",
+        "Video": "false",
+        "Lat": "47.963037",
+        "Lon": "12.596083",
+        "Name": "Traunreut Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 250,
+        "URL": "https://www.reutlingen.de/tools/showImage.php5",
+        "Video": "false",
+        "Lat": "48.491970",
+        "Lon": "9.211515",
+        "Name": "Reutlingen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 251,
+        "URL": "https://www.reutlingen.de/webcam/stadthalle/showImage.php5",
+        "Video": "false",
+        "Lat": "48.491212",
+        "Lon": "9.208764",
+        "Name": "Reutlingen Stadthalle",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 252,
+        "URL": "https://www.stadt-helmstedt.de/fileadmin/webcam/Marktblick/cam1-MB.jpg",
+        "Video": "false",
+        "Lat": "52.227832",
+        "Lon": "11.010286",
+        "Name": "Helmstedt Markt",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 253,
+        "URL": "https://www.stadt-helmstedt.de/fileadmin/webcam/Rathausblick/cam2-RB.jpg",
+        "Video": "false",
+        "Lat": "52.227951",
+        "Lon": "11.010656",
+        "Name": "Helmstedt Rathaus",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 254,
+        "URL": "https://www.gladbeck.de/webcam/rathaus.jpg",
+        "Video": "false",
+        "Lat": "51.575646",
+        "Lon": "6.980285",
+        "Name": "Gladbeck Willy-Brand-Platz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 255,
+        "URL": "https://www.stadt-ahaus.de/webcam/ahaus_fussgaengerzone.jpg",
+        "Video": "false",
+        "Lat": "52.073842",
+        "Lon": "7.007598",
+        "Name": "Ahaus Fussgaengerzone",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 256,
+        "URL": "https://webcam-badurach.land-in-sicht.com/Marktplatz.jpg",
+        "Video": "false",
+        "Lat": "48.493226",
+        "Lon": "9.399289",
+        "Name": "Bad Urach Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 257,
+        "URL": "https://webcams.goslar.de/marktplatz-gmg.jpg",
+        "Video": "false",
+        "Lat": "51.906148",
+        "Lon": "10.429373",
+        "Name": "Goslar Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 258,
+        "URL": "https://webcams.goslar.de/schuhof.jpg",
+        "Video": "false",
+        "Lat": "51.90589",
+        "Lon": "10.428139",
+        "Name": "Goslar Schuhhof",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 259,
+        "URL": "https://www.nordseehotel.info/webcam/webcam.jpg",
+        "Video": "false",
+        "Lat": "54.685449",
+        "Lon": "8.56895",
+        "Name": "Wyk auf Foehr Seebrücke",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 260,
+        "URL": "https://www.hotelzumbaer.de/cam/image.jpg",
+        "Video": "false",
+        "Lat": "51.788677",
+        "Lon": "11.141263",
+        "Name": "Quedlinburg Altstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 261,
+        "URL": "https://bad-essen.ftp.citywerk.net/kirchplatz.jpg",
+        "Video": "false",
+        "Lat": "52.319822",
+        "Lon": "8.34034",
+        "Name": "Bad Essen Kirchplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }, 
+      {
+        "ID": 262,
+        "URL": "https://player.livespotting.com/lsplayer.html?alias=a64hpuc4",
+        "Video": "true",
+        "Lat": "48.779242",
+        "Lon": "9.179206",
+        "Name": "Stuttgart Schlossplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 263,
+        "URL": "https://webcam.lohne.de/Innenstadt.jpg",
+        "Video": "false",
+        "Lat": "52.66574",
+        "Lon": "8.235656",
+        "Name": "Lohne Innenstadt",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 264,
+        "URL": "www.stadtwerke-warburg.de/webcam/pos2.jpg",
+        "Video": "false",
+        "Lat": "51.484365",
+        "Lon": "9.148865",
+        "Name": "Warburg Neustadtmarktplatz",
+        "Personenzahl": null,
+        "Stand": null
       }   
-]  
+]
