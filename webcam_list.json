@@ -2662,12 +2662,42 @@
       },
       {
         "ID": 264,
-        "URL": "www.stadtwerke-warburg.de/webcam/pos2.jpg",
+        "URL": "https://www.stadtwerke-warburg.de/webcam/pos2.jpg",
         "Video": "false",
         "Lat": "51.484365",
         "Lon": "9.148865",
         "Name": "Warburg Neustadtmarktplatz",
         "Personenzahl": null,
         "Stand": null
-      }   
+      },
+      {
+        "ID": 265,
+        "URL": "https://app.cham.de/webcam/Still/063212_SNCPeriodic.jpg",
+        "Video": "false",
+        "Lat": "49.2181",
+        "Lon": "12.6659",
+        "Name": "Cham Marktplatz",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 266,
+        "URL": "https://www.kalkar.de/webcam/194.77.238.88/web_cam.jpg",
+        "Video": "false",
+        "Lat": "51.7391",
+        "Lon": "6.2910",
+        "Name": "Kalkar Zentrum",
+        "Personenzahl": null,
+        "Stand": null
+      },
+      {
+        "ID": 267,
+        "URL": "https://seelbach-cam.schnebel-computertechnik.de/Rathaus/Pos08/pos08.jpg",
+        "Video": "false",
+        "Lat": "48.3104",
+        "Lon": "7.9408",
+        "Name": "Ortenau Klosterplatz",
+        "Personenzahl": null,
+        "Stand": null
+      }    
 ]
