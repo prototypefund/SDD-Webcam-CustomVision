@@ -2169,17 +2169,7 @@
         "Name": "Landshut Innenstadt",
         "Personenzahl": null,
         "Stand": null
-      },
-      {
-        "ID": 216,
-        "URL": "https://www.movie-star.info/sonna-alp/sonna-alp-gr.jpg",
-        "Video": "false",
-        "Lat": "47.32777",
-        "Lon": "10.154521",
-        "Name": "Kleinwalsertal Sonnaalp",
-        "Personenzahl": null,
-        "Stand": null
-      },
+      },      
       {
         "ID": 217,
         "URL": "https://stadthagen.active-city.net/tropicana/webcam/sthcam1.jpg",
