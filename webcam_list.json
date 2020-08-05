@@ -1,5 +1,16 @@
 [
     {
+        "ID": 5,
+        "URL": "https://www.juwelier-roller.de/media/webcam/chemnitz_markt.jpg",
+        "origin": "https://www.juwelier-roller.de/webcam.html",
+        "Video": "false",
+        "Lat": "50.832587",
+        "Lon": "12.919738",
+        "Name": "Chemnitz Markt",
+        "Personenzahl": null,
+        "Stand": null
+    },
+    {
         "ID": 19,
         "URL": "https://www.fiwa-forum.de/webcam/fiwa-forum-cam.jpg",
         "origin": "https://www.fiwa-forum.de/app.php/webcam",
@@ -31,5 +42,5 @@
         "Name": "Hildesheim Campus der Universität",
         "Personenzahl": null,
         "Stand": null
-    }
+    }    
 ]
