@@ -2,6 +2,7 @@
     {
         "ID": 19,
         "URL": "https://www.fiwa-forum.de/webcam/fiwa-forum-cam.jpg",
+        "origin": "https://www.fiwa-forum.de/app.php/webcam",
         "Video": "false",
         "Lat": "51.630403",
         "Lon": "13.708284",
