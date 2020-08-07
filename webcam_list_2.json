@@ -1514,7 +1514,7 @@
     {
         "ID": 127,
         "URL": "http://93.241.229.242:8081/tmpfs/auto.jpg?usr=gast&pwd=gast",
-        "Video": false,
+        "Video": true,
         "Lat": 47.8042656,
         "Lon": 12.8545399,
         "Name": "Anger",
