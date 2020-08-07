@@ -93,7 +93,7 @@ if __name__ == '__main__':
     pc = PeopleCounter()
     for cam in webcams:
         print(cam)
-        if cam['Video'] == 'true':
+        if cam['Video'] == true:
            print('Camera is stream')
            try:
                cam['Personenzahl'], cam['pred'], cam['width'], cam['high'] = pc.get_video(cam['URL'], cam['ID'])
