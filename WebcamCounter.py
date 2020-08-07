@@ -88,7 +88,7 @@ class PeopleCounter:
 
 
 if __name__ == '__main__':
-    with open("webcam_list.json","r") as f:
+    with open("webcam_list_2.json","r") as f:
         webcams = json.load(f)
     pc = PeopleCounter()
     for cam in webcams:
