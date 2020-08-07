@@ -1502,7 +1502,7 @@
     {
         "ID": 126,
         "URL": "http://www.bayernwebcam.de/bilder/badbayersoien.jpg",
-        "Video": false,
+        "Video": true,
         "Lat": 47.6886425,
         "Lon": 11.0038248,
         "Name": "Bad Bayersoien",
