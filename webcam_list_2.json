@@ -1534,19 +1534,7 @@
         "Stand": null,
         "consent": false,
         "origin": "http://80.151.86.36:8082/cgi-bin/hi3510/mjpegstream.cgi?-chn=11&-usr=gast&-pwd=gast"
-    },
-    {
-        "ID": 129,
-        "URL": "http://www.bayernwebcam.de/bilder/kreuth.jpg",
-        "Video": true,
-        "Lat": 47.6446091,
-        "Lon": 11.7437703,
-        "Name": "Kreuth Warmfreibad",
-        "Personenzahl": null,
-        "Stand": null,
-        "consent": false,
-        "origin": "http://www.bayernwebcam.de/bilder/kreuth.jpg"
-    },
+    },  
     {
         "ID": 130,
         "URL": "http://www.bayernwebcam.de/bilder/badrottach.jpg",
