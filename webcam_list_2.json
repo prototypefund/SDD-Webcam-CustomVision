@@ -612,18 +612,6 @@
         "origin": "https://media.webdatendienst.de/webcam1_a.jpg"
     },
     {
-        "ID": 52,
-        "URL": "http://usedomhafen.selfhost.eu:8080/cam_3.jpg",
-        "Video": false,
-        "Lat": 53.8724447,
-        "Lon": 13.915819,
-        "Name": "Usedom",
-        "Personenzahl": null,
-        "Stand": null,
-        "consent": false,
-        "origin": "http://usedomhafen.selfhost.eu:8080/cam_3.jpg"
-    },
-    {
         "ID": 53,
         "URL": "http://webcam.aichach.de/webaic.jpg",
         "Video": false,
