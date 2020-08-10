@@ -2075,19 +2075,7 @@
         "Stand": null,
         "consent": false,
         "origin": "http:///www.strandidyll.de/webcam/strandidyll/seebruecke/aktuell.jpg"
-    },
-    {
-        "ID": 176,
-        "URL": "https://insinceu.hs.llnwd.net/r1/147blu/hdream/ahlbeck/Panorama.mp4",
-        "Video": true,
-        "Lat": 53.943167,
-        "Lon": 14.187856,
-        "Name": "Ahlbeck Seebrücke",
-        "Personenzahl": null,
-        "Stand": null,
-        "consent": false,
-        "origin": "https://insinceu.hs.llnwd.net/r1/147blu/hdream/ahlbeck/Panorama.mp4"
-    },
+    },   
     {
         "ID": 177,
         "URL": "https://www.io-warnemuende.de/tl_files/xWebcam/iow-webcam730.jpg",
