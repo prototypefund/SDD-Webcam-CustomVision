@@ -10,7 +10,19 @@
         "Stand": null,
         "consent": true,
         "origin": "https://www.juwelier-roller.de/webcam.html"
-    }, 
+    },
+    {
+        "ID": 6,
+        "URL": "https://www.celle-tourismus.de/webcam/image-640x480.jpg",
+        "Video": false,
+        "Lat": 52.623973,
+        "Lon": 10.080568,
+        "Name": "Celle Stechbahn",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": false,
+        "origin": "https://www.celle-tourismus.de/webcam/image-640x480.jpg"
+    },
     {
         "ID": 13,
         "URL": "https://cdn01.koeln.de/uploads/webcam/live.jpg",
