@@ -166,5 +166,17 @@
         "Stand": null,
         "consent": false,
         "origin": "https://www.lemgo.de/fileadmin/image/webcam/aktuell.jpg"
-    }    
+    },
+    {
+        "ID": 203,
+        "URL": "https://www.punktapotheke.de/webcam/webcam.jpg",
+        "Video": false,
+        "Lat": 52.20027,
+        "Lon": 8.589227,
+        "Name": "Tönnies Wellensiek-Platz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": false,
+        "origin": "https://www.punktapotheke.de/webcam/webcam.jpg"
+    }
 ]
