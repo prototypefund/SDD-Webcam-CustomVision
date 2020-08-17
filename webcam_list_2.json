@@ -178,5 +178,17 @@
         "Stand": null,
         "consent": false,
         "origin": "https://www.punktapotheke.de/webcam/webcam.jpg"
+    },
+    {
+        "ID": 220,
+        "URL": "https://webcam.oldsum-auf-foehr.de/oldsum_1.jpg",
+        "Video": false,
+        "Lat": 54.73312,
+        "Lon": 8.449398,
+        "Name": "Oldsum Ortskern",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://oldsum-auf-foehr.de/webcam/"
     }
 ]
