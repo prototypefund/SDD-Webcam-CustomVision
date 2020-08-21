@@ -70,14 +70,26 @@
         "Stand": null,
         "consent": true,
         "origin": "https://www.hildesheim.de/rathaus/webcams.html"
-    }, 
+    },
+    {
+        "ID": 27,
+        "URL": "https://www2.braunschweig.de/webcam/schloss.jpg",
+        "Video": false,
+        "Lat": 52.263363,
+        "Lon": 10.527763,
+        "Name": "Braunschweig Schloss",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://www.braunschweig.de/leben/stadtportraet/braunschweiger_ansichten/webcam/"
+    },
     {
         "ID": 31,
         "URL": "https://www.theater-schwedt.de/ubs/cam/130/",
         "Video": false,
         "Lat": 53.0617394,
         "Lon": 14.2838004,
-        "Name": "Schwedt Lindenallee",
+        "Name": "Schwedt Lindenallee",-
         "Personenzahl": null,
         "Stand": null,
         "consent": true,
