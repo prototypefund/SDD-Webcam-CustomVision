@@ -192,6 +192,30 @@
         "origin": "https://www.punktapotheke.de/webcam/webcam.jpg"
     },
     {
+        "ID": 204,
+        "URL": "https://www2.braunschweig.de/webcam/burgplatz1.jpg",
+        "Video": false,
+        "Lat": 52.264607,
+        "Lon": 10.524012,
+        "Name": "Braunschweig Burgplatz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://www.braunschweig.de/leben/stadtportraet/braunschweiger_ansichten/webcam/"
+    },
+    {
+        "ID": 205,
+        "URL": "https://www2.braunschweig.de/webcam/turm1.jpg",
+        "Video": false,
+        "Lat": 52.26499,
+        "Lon": 10.524652,
+        "Name": "Braunschweig Vor der Burg",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://www.braunschweig.de/leben/stadtportraet/braunschweiger_ansichten/webcam/"
+    },
+    {
         "ID": 220,
         "URL": "https://webcam.oldsum-auf-foehr.de/oldsum_1.jpg",
         "Video": false,
