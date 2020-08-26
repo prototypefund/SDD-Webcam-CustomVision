@@ -74,17 +74,16 @@ class PeopleCounter:
         filename = "/tmp/"+ str(id) + ".jpg"
         status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
-        directory = r'/tmp'
-        #image = PIL.Image.open(os.path.join(directory, filename))        
-        #width, height = image.size
-        #print("Image resolution: ",width, height)
+        directory = r'/tmp'       
+        hash = imagehash.average_hash(Image.open(os.path.join(directory, filename)))
+        print("image hash : ",hash)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount, pred,  w, h
+        return peoplecount, pred,  w, h, hash
 
 
 if __name__ == '__main__':
@@ -96,7 +95,7 @@ if __name__ == '__main__':
         if cam['Video'] == True:
            print('Camera is stream')
            try:
-               cam['Personenzahl'], cam['pred'], cam['width'], cam['high'] = pc.get_video(cam['URL'], cam['ID'])
+               cam['Personenzahl'], cam['pred'], cam['width'], cam['high'], cam['hash'] = pc.get_video(cam['URL'], cam['ID'])
                #cam['Personenzahl'] =  pc.get_video(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
                print(cam["Name"]+" :"+str(cam["Personenzahl"]))     
