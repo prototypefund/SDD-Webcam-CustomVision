@@ -18,6 +18,7 @@ import os
 import gc
 import socket
 from PIL import Image
+import imagehash
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -50,6 +51,8 @@ class PeopleCounter:
         print('width:  ', w)
         print('height: ', h)
         print('channel:', c)
+        hash = imagehash.average_hash(Image.open(os.path.join(directory, filename)))
+        print("image hash : ",hash)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
