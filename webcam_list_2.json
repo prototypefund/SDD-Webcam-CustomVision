@@ -238,5 +238,17 @@
         "Stand": null,
         "consent": true,
         "origin": "https://oldsum-auf-foehr.de/webcam/"
+    },
+    {
+        "ID": 265,
+        "URL": "https://app.cham.de/webcam/Still/063212_SNCPeriodic.jpg",
+        "Video": false,
+        "Lat": 49.2181,
+        "Lon": 12.6659,
+        "Name": "Cham Marktplatz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://app.cham.de/webcam/"
     }
 ]
