@@ -40,13 +40,7 @@ class PeopleCounter:
         filename = "/tmp/"+ str(id) + ".jpg"
         status = cv2.imwrite(filename, self.image)
         print("Image written to file-system : ",status)
-        directory = r'/tmp'
-        #image = PIL.Image.open(os.path.join(directory, filename))        
-        #width, height = image.size
-        #print("Image resolution: ",width, height)
-        #hsh = cv2.img_hash.BlockMeanHash_create()
-        #hash = hsh.compute(self.image)
-        #print("Image hash: ",hash)
+        directory = r'/tmp'        
         h, w, c = self.image.shape
         print('width:  ', w)
         print('height: ', h)
@@ -59,7 +53,7 @@ class PeopleCounter:
         peoplecount = len([x for x in pred if x["probability"]>0.5]) 
         print("count of people : ",peoplecount)
         gc.collect()
-        return peoplecount, pred, w, h
+        return peoplecount, pred, w, h, hash
     
     def get_video(self, url, id):     
         cap = cv2.VideoCapture(url)
@@ -112,7 +106,7 @@ if __name__ == '__main__':
         else:
            try:
                print('Camera is Image')
-               cam['Personenzahl'], cam['pred'], cam['width'], cam['high'] = pc.get_image(cam['URL'], cam['ID'])
+               cam['Personenzahl'], cam['pred'], cam['width'], cam['high'], cam['hash'] = pc.get_image(cam['URL'], cam['ID'])
                #cam['Personenzahl'], cam['pred'] = pc.get_image(cam['URL'], cam['ID'])
                #cam['Personenzahl'] =  pc.get_image(cam['URL'], cam['ID'])
                cam['Stand'] = datetime.now().strftime("%Y-%m-%d %H:%M")
