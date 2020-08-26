@@ -24,6 +24,18 @@
         "origin": "https://www.celle-tourismus.de/webcam/image-640x480.jpg"
     },
     {
+        "ID": 10,
+        "URL": "http://www.marktplatzcam.mybiberach.de/MarktplatzCam000M.jpg",
+        "Video": false,
+        "Lat": 48.097822,
+        "Lon": 9.787595,
+        "Name": "Biberach Marktplatz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "http://www.marktplatzcam.mybiberach.de/MarktplatzCam000M.jpg"
+    },
+    {
         "ID": 13,
         "URL": "https://cdn01.koeln.de/uploads/webcam/live.jpg",
         "Video": false,
