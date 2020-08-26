@@ -18,7 +18,7 @@ import os
 import gc
 import socket
 from PIL import Image
-import imagehash
+import hashlib
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
@@ -45,7 +45,11 @@ class PeopleCounter:
         print('width:  ', w)
         print('height: ', h)
         print('channel:', c)
-        hash = str(imagehash.average_hash(Image.open(os.path.join(directory, filename))))
+        md5_hash = hashlib.md5()
+        a_file = open(os.path.join(directory, filename), "rb")
+        content = a_file.read()
+        md5_hash.update(content)
+        hash = md5_hash.hexdigest()
         print("image hash : ",hash)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
@@ -75,8 +79,11 @@ class PeopleCounter:
         status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
         directory = r'/tmp'       
-        hash = str(imagehash.average_hash(Image.open(os.path.join(directory, filename))))
-        print("image hash : ",hash)
+        md5_hash = hashlib.md5()
+        a_file = open(os.path.join(directory, filename), "rb")
+        content = a_file.read()
+        md5_hash.update(content)
+        hash = md5_hash.hexdigest()
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
         os.remove(os.path.join(directory, filename))
