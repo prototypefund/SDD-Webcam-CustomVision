@@ -46,9 +46,9 @@ class PeopleCounter:
         print('height: ', h)
         print('channel:', c)
         md5_hash = hashlib.md5()
-        a_file = open(os.path.join(directory, filename), "rb")
-        content = a_file.read()
-        md5_hash.update(content)
+        with open(os.path.join(directory, filename), "rb") as a_file:
+            content = a_file.read()
+            md5_hash.update(content)
         hash = md5_hash.hexdigest()
         print("image hash : ",hash)
         pred = predict.main(os.path.join(directory, filename))
@@ -80,9 +80,9 @@ class PeopleCounter:
         print("Image written to file-system : ",status)
         directory = r'/tmp'       
         md5_hash = hashlib.md5()
-        a_file = open(os.path.join(directory, filename), "rb")
-        content = a_file.read()
-        md5_hash.update(content)
+        with open(os.path.join(directory, filename), "rb") as a_file:
+            content = a_file.read()
+            md5_hash.update(content)
         hash = md5_hash.hexdigest()
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
