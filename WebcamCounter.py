@@ -43,9 +43,9 @@ class PeopleCounter:
         #image = PIL.Image.open(os.path.join(directory, filename))        
         #width, height = image.size
         #print("Image resolution: ",width, height)
-        hsh = cv2.img_hash.BlockMeanHash_create()
-        hash = hsh.compute(self.image)
-        print("Image hash: ",hash)
+        #hsh = cv2.img_hash.BlockMeanHash_create()
+        #hash = hsh.compute(self.image)
+        #print("Image hash: ",hash)
         h, w, c = self.image.shape
         print('width:  ', w)
         print('height: ', h)
