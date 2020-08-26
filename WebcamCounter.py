@@ -45,7 +45,7 @@ class PeopleCounter:
         print('width:  ', w)
         print('height: ', h)
         print('channel:', c)
-        hash = imagehash.average_hash(Image.open(os.path.join(directory, filename)))
+        hash = str(imagehash.average_hash(Image.open(os.path.join(directory, filename))))
         print("image hash : ",hash)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
@@ -75,7 +75,7 @@ class PeopleCounter:
         status = cv2.imwrite(filename, frame_bgr)
         print("Image written to file-system : ",status)
         directory = r'/tmp'       
-        hash = imagehash.average_hash(Image.open(os.path.join(directory, filename)))
+        hash = str(imagehash.average_hash(Image.open(os.path.join(directory, filename))))
         print("image hash : ",hash)
         pred = predict.main(os.path.join(directory, filename))
         print(pred) 
