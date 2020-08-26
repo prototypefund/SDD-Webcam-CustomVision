@@ -3,4 +3,3 @@ tensorflow
 opencv-python
 boto3
 pillow
-imagehash
