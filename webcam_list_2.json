@@ -84,6 +84,30 @@
         "origin": "https://www.hildesheim.de/rathaus/webcams.html"
     },
     {
+        "ID": 22,
+        "URL": "https://lamp01.dortmund.de/webcams/friedensplatz/current.jpg",
+        "Video": false,
+        "Lat": 51.511543,
+        "Lon": 7.466345,
+        "Name": "Dortmund Friedensplatz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": false,
+        "origin": "https://lamp01.dortmund.de/webcams/friedensplatz/current.jpg"
+    },
+    {
+        "ID": 23,
+        "URL": "https://lamp01.dortmund.de/webcams/altermarkt_hik/current_TIMING.jpg",
+        "Video": false,
+        "Lat": 51.513989,
+        "Lon": 7.466483,
+        "Name": "Dortmund Alter Markt",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": false,
+        "origin": "https://lamp01.dortmund.de/webcams/altermarkt_hik/current_TIMING.jpg"
+    },
+    {
         "ID": 27,
         "URL": "https://www2.braunschweig.de/webcam/schloss.jpg",
         "Video": false,
