@@ -92,7 +92,7 @@
         "Name": "Dortmund Friedensplatz",
         "Personenzahl": null,
         "Stand": null,
-        "consent": false,
+        "consent": true,
         "origin": "https://lamp01.dortmund.de/webcams/friedensplatz/current.jpg"
     },
     {
@@ -104,7 +104,7 @@
         "Name": "Dortmund Alter Markt",
         "Personenzahl": null,
         "Stand": null,
-        "consent": false,
+        "consent": true,
         "origin": "https://lamp01.dortmund.de/webcams/altermarkt_hik/current_TIMING.jpg"
     },
     {
