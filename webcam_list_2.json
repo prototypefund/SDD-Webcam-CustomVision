@@ -286,5 +286,17 @@
         "Stand": null,
         "consent": true,
         "origin": "https://app.cham.de/webcam/"
+    },
+    {
+        "ID": 268,
+        "URL": "https://lamp01.dortmund.de/webcams/altermarkt_hik/aplerbeck_TIMING.jpg",
+        "Video": false,
+        "Lat": 51.4911575,
+        "Lon": 7.552602,
+        "Name": "Dortmund Aplerbecker Marktplatz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": yes,
+        "origin": "https://lamp01.dortmund.de/webcams/altermarkt_hik/aplerbeck_TIMING.jpg"
     }
 ]
