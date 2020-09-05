@@ -296,7 +296,7 @@
         "Name": "Dortmund Aplerbecker Marktplatz",
         "Personenzahl": null,
         "Stand": null,
-        "consent": yes,
+        "consent": true,
         "origin": "https://lamp01.dortmund.de/webcams/altermarkt_hik/aplerbeck_TIMING.jpg"
     }
 ]
