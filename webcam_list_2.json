@@ -32,7 +32,7 @@
         "Name": "Celle Stechbahn",
         "Personenzahl": null,
         "Stand": null,
-        "consent": false,
+        "consent": true,
         "origin": "https://www.celle-tourismus.de/webcam/image-640x480.jpg"
     },
     {
@@ -248,7 +248,7 @@
         "Name": "Lemgo Markt",
         "Personenzahl": null,
         "Stand": null,
-        "consent": false,
+        "consent": true,
         "origin": "https://www.lemgo.de/fileadmin/image/webcam/aktuell.jpg"
     },
     {
@@ -260,7 +260,7 @@
         "Name": "Tönnies Wellensiek-Platz",
         "Personenzahl": null,
         "Stand": null,
-        "consent": false,
+        "consent": true,
         "origin": "https://www.punktapotheke.de/webcam/webcam.jpg"
     },
     {
