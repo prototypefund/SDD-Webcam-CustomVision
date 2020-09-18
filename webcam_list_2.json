@@ -1,4 +1,16 @@
-[   
+[
+    {
+        "ID": 4,
+        "URL": "https://www.erfurt.de/webcam/fischmarkt.jpg",
+        "Video": false,
+        "Lat": 50.978031,
+        "Lon": 11.028691,
+        "Name": "Erfurt Fischmarkt",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://www.erfurt.de/ef115742?pk_campaign=everyonecounts&pk_kwd=ef115742"
+    },
     {
         "ID": 5,
         "URL": "https://www.juwelier-roller.de/media/webcam/chemnitz_markt.jpg",
