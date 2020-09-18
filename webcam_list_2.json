@@ -277,7 +277,7 @@
     },
     {
         "ID": 244,
-        "URL": "https://213.182.159.137/webcam/Marktplatz/cam01.jpg",
+        "URL": "http://213.182.159.137/webcam/Marktplatz/cam01.jpg",
         "Video": false,
         "Lat": 47.98463,
         "Lon": 8.818457,
@@ -285,7 +285,7 @@
         "Personenzahl": null,
         "Stand": null,
         "consent": true,
-        "origin": "https://213.182.159.137/webcam/Marktplatz/cam01.jpg"
+        "origin": "https://www.tuttlingen.de/de/Webcam"
     },
     {
         "ID": 265,
