@@ -144,6 +144,18 @@
         "origin": "https://www.theater-schwedt.de/ubs/page/130/"
     },
     {
+        "ID": 40,
+        "URL": "https://www.erfurt.de/webcam/domplatz.jpg",
+        "Video": false,
+        "Lat": 50.9772478,
+        "Lon": 11.0218204,
+        "Name": "Erfurt Domplatz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://www.erfurt.de/ef115742?pk_campaign=everyonecounts&pk_kwd= ef115621"
+    },
+    {
         "ID": 54,
         "URL": "https://mzcam.kunden-mediamachine.de/markt/bild.jpg",
         "Video": false,
