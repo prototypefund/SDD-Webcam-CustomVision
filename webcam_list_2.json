@@ -96,6 +96,18 @@
         "origin": "https://www.hildesheim.de/rathaus/webcams.html"
     },
     {
+        "ID": 21,
+        "URL": "https://www.siegen.de/fileadmin/cms/bilder/Webcam/WebCam_Siegen.jpg",
+        "Video": false,
+        "Lat": 50.8335211,
+        "Lon": 7.9867985,
+        "Name": "Siegen Marktplatz",
+        "Personenzahl": null,
+        "Stand": null,
+        "consent": true,
+        "origin": "https://www.siegen.de/kultur-tourismus/webcam/"
+    },
+    {
         "ID": 22,
         "URL": "https://lamp01.dortmund.de/webcams/friedensplatz/current.jpg",
         "Video": false,
